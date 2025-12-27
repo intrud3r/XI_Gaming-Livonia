@@ -1,0 +1,20 @@
+{
+    "VehicleName": "Candy_MustFrank_White",
+    "DisplayName": "",
+    "Parts": [
+        "CarBattery",
+        "CarRadiator",
+        "SparkPlug",
+        "HeadlightH7",
+        "HeadlightH7",
+        "Candy_MustFrank_Wheel",
+        "Candy_MustFrank_Wheel",
+        "Candy_MustFrank_Wheel",
+        "Candy_MustFrank_Wheel",
+        "Candy_MustFrank_Doors_Driver_White",
+        "Candy_MustFrank_Doors_CoDriver_White",
+        "Candy_MustFrank_Doors_Trunk_White",
+        "Candy_MustFrank_Doors_Trunk0_White",
+        "Candy_MustFrank_Doors_Hood_White"
+    ]
+}

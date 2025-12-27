@@ -1,0 +1,131 @@
+{
+    "m_IsLocalPosition": 0,
+    "m_Items": [
+        {
+            "m_Classname": "Wellies_Black",
+            "m_LocalPosition": [
+                11539.3447265625,
+                173.73974609375,
+                10355.7109375
+            ],
+            "m_LocalRotation": [
+                167.39279174804688,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 97.37541198730469,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "TShirt_Green",
+            "m_LocalPosition": [
+                11506.8916015625,
+                201.7869415283203,
+                10378.646484375
+            ],
+            "m_LocalRotation": [
+                46.48455810546875,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 32.91817855834961,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Barrel_Blue",
+            "m_LocalPosition": [
+                11483.6083984375,
+                174.14817810058595,
+                10164.2783203125
+            ],
+            "m_LocalRotation": [
+                -30.444040298461915,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 731.8483276367188,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 12
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "GorkaEJacket_Autumn",
+            "m_LocalPosition": [
+                11490.970703125,
+                206.37876892089845,
+                10407.962890625
+            ],
+            "m_LocalRotation": [
+                154.1208953857422,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 102.052001953125,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "BaseballCap_Olive",
+            "m_LocalPosition": [
+                11500.3173828125,
+                202.19203186035157,
+                10375.546875
+            ],
+            "m_LocalRotation": [
+                0.0,
+                -89.96572875976563,
+                -180.0
+            ],
+            "m_Data": {
+                "m_Health": 66.32099151611328,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "TShirt_Green",
+            "m_LocalPosition": [
+                11488.927734375,
+                224.67776489257813,
+                10375.3408203125
+            ],
+            "m_LocalRotation": [
+                -118.82076263427735,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 32.71858596801758,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        }
+    ]
+}

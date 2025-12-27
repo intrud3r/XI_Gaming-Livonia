@@ -1,0 +1,18 @@
+{
+    "VehicleName": "RTrzr_Winter",
+    "DisplayName": "",
+    "Parts": [
+        "RT_rzr_driver_door_winter",
+        "RT_rzr_codriver_door_winter",
+        "RT_rzr_hood_winter",
+        "RT_rzr_wheel_winter",
+        "RT_rzr_wheel_winter",
+        "RT_rzr_wheel_winter",
+        "RT_rzr_wheel_winter",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "SparkPlug"
+    ]
+}

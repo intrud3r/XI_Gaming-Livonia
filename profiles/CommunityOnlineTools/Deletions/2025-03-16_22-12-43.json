@@ -1,0 +1,30 @@
+{
+    "m_IsLocalPosition": 0,
+    "m_Items": [
+        {
+            "m_Classname": "ExpansionWall6x3",
+            "m_LocalPosition": [
+                2954.94873046875,
+                219.0609588623047,
+                481.3809814453125
+            ],
+            "m_LocalRotation": [
+                20.168834686279298,
+                0.0,
+                0.0
+            ],
+            "m_Data": {
+                "m_Health": 30000.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [
+                "wood_wallfinished_third",
+                "wood_wallframe_third",
+                "wood_base_third"
+            ],
+            "m_Attachments": []
+        }
+    ]
+}

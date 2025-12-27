@@ -1,0 +1,2164 @@
+{
+    "m_IsLocalPosition": 0,
+    "m_Items": [
+        {
+            "m_Classname": "SurgicalMask",
+            "m_LocalPosition": [
+                646.1278686523438,
+                475.3353576660156,
+                1169.8614501953126
+            ],
+            "m_LocalRotation": [
+                -38.72141647338867,
+                -38.18154525756836,
+                -8.249972343444825
+            ],
+            "m_Data": {
+                "m_Health": 49.6203498840332,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Ammo_556x45",
+            "m_LocalPosition": [
+                646.1278686523438,
+                475.33233642578127,
+                1169.8614501953126
+            ],
+            "m_LocalRotation": [
+                79.44679260253906,
+                28.095067977905275,
+                -28.136112213134767
+            ],
+            "m_Data": {
+                "m_Health": 65.83879852294922,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "TTsKOJacket_Camo",
+            "m_LocalPosition": [
+                646.1278686523438,
+                475.3189392089844,
+                1169.8614501953126
+            ],
+            "m_LocalRotation": [
+                -172.14468383789063,
+                22.126110076904298,
+                32.884769439697269
+            ],
+            "m_Data": {
+                "m_Health": 115.63792419433594,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "M9A1_Bayonet",
+            "m_LocalPosition": [
+                646.1278686523438,
+                475.375732421875,
+                1169.8614501953126
+            ],
+            "m_LocalRotation": [
+                128.0780792236328,
+                -51.07065200805664,
+                -121.36180114746094
+            ],
+            "m_Data": {
+                "m_Health": 119.01578521728516,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Ammo_Expansion_M203_Smoke_Red",
+            "m_LocalPosition": [
+                646.1278686523438,
+                475.3896179199219,
+                1169.8614501953126
+            ],
+            "m_LocalRotation": [
+                71.4856185913086,
+                23.97644805908203,
+                -31.6373291015625
+            ],
+            "m_Data": {
+                "m_Health": 71.04037475585938,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "M18SmokeGrenade_Green",
+            "m_LocalPosition": [
+                646.1278686523438,
+                475.3875427246094,
+                1169.8614501953126
+            ],
+            "m_LocalRotation": [
+                128.0780792236328,
+                -51.07065200805664,
+                -121.36180114746094
+            ],
+            "m_Data": {
+                "m_Health": 19.76073455810547,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "M18SmokeGrenade_Green",
+            "m_LocalPosition": [
+                646.1278686523438,
+                475.3875427246094,
+                1169.8614501953126
+            ],
+            "m_LocalRotation": [
+                -51.92190933227539,
+                51.07065200805664,
+                -58.638187408447269
+            ],
+            "m_Data": {
+                "m_Health": 18.309518814086915,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "ACOGOptic",
+            "m_LocalPosition": [
+                646.1278686523438,
+                475.3968200683594,
+                1169.8614501953126
+            ],
+            "m_LocalRotation": [
+                128.0780792236328,
+                -51.07065200805664,
+                -121.36180114746094
+            ],
+            "m_Data": {
+                "m_Health": 43.13333511352539,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "ReflexOptic",
+            "m_LocalPosition": [
+                646.1278686523438,
+                475.361572265625,
+                1169.8614501953126
+            ],
+            "m_LocalRotation": [
+                128.0780792236328,
+                -51.07065200805664,
+                -121.36180114746094
+            ],
+            "m_Data": {
+                "m_Health": 23.688161849975587,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "ReflexOptic",
+            "m_LocalPosition": [
+                646.1278686523438,
+                475.361572265625,
+                1169.8614501953126
+            ],
+            "m_LocalRotation": [
+                128.0780792236328,
+                -51.07065200805664,
+                -121.36180114746094
+            ],
+            "m_Data": {
+                "m_Health": 21.57689094543457,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "KashtanOptic",
+            "m_LocalPosition": [
+                646.1278686523438,
+                475.4374084472656,
+                1169.8614501953126
+            ],
+            "m_LocalRotation": [
+                128.0780792236328,
+                -51.07065200805664,
+                -121.36180114746094
+            ],
+            "m_Data": {
+                "m_Health": 38.48292541503906,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "ClaymoreMine",
+            "m_LocalPosition": [
+                646.1278686523438,
+                475.3003234863281,
+                1169.8614501953126
+            ],
+            "m_LocalRotation": [
+                -167.28907775878907,
+                19.08827018737793,
+                34.59523391723633
+            ],
+            "m_Data": {
+                "m_Health": 44.79659652709961,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "M67Grenade",
+            "m_LocalPosition": [
+                646.1278686523438,
+                475.36126708984377,
+                1169.8614501953126
+            ],
+            "m_LocalRotation": [
+                -115.9461669921875,
+                -19.48297691345215,
+                34.394248962402347
+            ],
+            "m_Data": {
+                "m_Health": 31.889707565307618,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Colt1911",
+            "m_LocalPosition": [
+                646.1278686523438,
+                475.3835144042969,
+                1169.8614501953126
+            ],
+            "m_LocalRotation": [
+                -51.92190933227539,
+                51.07065200805664,
+                -58.638187408447269
+            ],
+            "m_Data": {
+                "m_Health": 175.06271362304688,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": [
+                {
+                    "m_Classname": "PistolSuppressor",
+                    "m_Data": {
+                        "m_Health": 1.8851208686828614,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Mag_1911_7Rnd",
+                    "m_Data": {
+                        "m_Health": 68.15821075439453,
+                        "m_Quantity": 1.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        },
+        {
+            "m_Classname": "SurgicalMask",
+            "m_LocalPosition": [
+                646.1278686523438,
+                475.3353576660156,
+                1169.8614501953126
+            ],
+            "m_LocalRotation": [
+                115.2226333618164,
+                38.2203483581543,
+                -8.036585807800293
+            ],
+            "m_Data": {
+                "m_Health": 39.71526336669922,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "AmmoBox_45ACP_25rnd",
+            "m_LocalPosition": [
+                646.1278686523438,
+                475.36138916015627,
+                1169.8614501953126
+            ],
+            "m_LocalRotation": [
+                128.0780792236328,
+                -51.07065200805664,
+                -121.36180114746094
+            ],
+            "m_Data": {
+                "m_Health": 89.58708953857422,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "AmmoBox_556x45Tracer_20Rnd",
+            "m_LocalPosition": [
+                646.1278686523438,
+                475.3587646484375,
+                1169.8614501953126
+            ],
+            "m_LocalRotation": [
+                128.0780792236328,
+                -51.07065200805664,
+                -121.36180114746094
+            ],
+            "m_Data": {
+                "m_Health": 72.94595336914063,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "GorkaEJacket_Summer",
+            "m_LocalPosition": [
+                646.1278686523438,
+                475.3143615722656,
+                1169.8614501953126
+            ],
+            "m_LocalRotation": [
+                -5.800776958465576,
+                -29.243438720703126,
+                -26.93164825439453
+            ],
+            "m_Data": {
+                "m_Health": 106.0574951171875,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Epinephrine",
+            "m_LocalPosition": [
+                646.1278686523438,
+                475.4555969238281,
+                1169.8614501953126
+            ],
+            "m_LocalRotation": [
+                -51.92190933227539,
+                51.07065200805664,
+                -58.638187408447269
+            ],
+            "m_Data": {
+                "m_Health": 39.77019500732422,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Expansion_PMII25Optic",
+            "m_LocalPosition": [
+                646.1278686523438,
+                475.5835266113281,
+                1169.8614501953126
+            ],
+            "m_LocalRotation": [
+                68.20061492919922,
+                22.066015243530275,
+                -122.92247009277344
+            ],
+            "m_Data": {
+                "m_Health": 63.23984146118164,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "VTR_Barska",
+            "m_LocalPosition": [
+                646.1278686523438,
+                475.43499755859377,
+                1169.8614501953126
+            ],
+            "m_LocalRotation": [
+                -51.92190933227539,
+                51.07065200805664,
+                -58.638187408447269
+            ],
+            "m_Data": {
+                "m_Health": 133.75531005859376,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "ReflexOptic",
+            "m_LocalPosition": [
+                646.1278686523438,
+                475.3620300292969,
+                1169.8614501953126
+            ],
+            "m_LocalRotation": [
+                -51.92190933227539,
+                51.07065200805664,
+                -58.638187408447269
+            ],
+            "m_Data": {
+                "m_Health": 18.377573013305665,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "ReflexOptic",
+            "m_LocalPosition": [
+                646.1278686523438,
+                475.3620300292969,
+                1169.8614501953126
+            ],
+            "m_LocalRotation": [
+                -51.92190933227539,
+                51.07065200805664,
+                -58.638187408447269
+            ],
+            "m_Data": {
+                "m_Health": 18.0223388671875,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "BUISOptic",
+            "m_LocalPosition": [
+                646.1278686523438,
+                475.32275390625,
+                1169.8614501953126
+            ],
+            "m_LocalRotation": [
+                128.0780792236328,
+                -51.07065200805664,
+                -121.36180114746094
+            ],
+            "m_Data": {
+                "m_Health": 61.08157730102539,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "FlashGrenade",
+            "m_LocalPosition": [
+                646.1278686523438,
+                475.4134521484375,
+                1169.8614501953126
+            ],
+            "m_LocalRotation": [
+                -51.92190933227539,
+                51.07065200805664,
+                -58.638187408447269
+            ],
+            "m_Data": {
+                "m_Health": 18.069276809692384,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "BloodTestKit",
+            "m_LocalPosition": [
+                646.1278686523438,
+                475.33837890625,
+                1169.8614501953126
+            ],
+            "m_LocalRotation": [
+                -51.92190933227539,
+                51.07065200805664,
+                -58.638187408447269
+            ],
+            "m_Data": {
+                "m_Health": 10.787896156311036,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "AmmoBox_762x39_20Rnd",
+            "m_LocalPosition": [
+                646.1278686523438,
+                475.3816223144531,
+                1169.8614501953126
+            ],
+            "m_LocalRotation": [
+                128.0780792236328,
+                -51.07065200805664,
+                -121.36180114746094
+            ],
+            "m_Data": {
+                "m_Health": 80.23621368408203,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "AmmoBox_762x54Tracer_20Rnd",
+            "m_LocalPosition": [
+                646.1278686523438,
+                475.3875427246094,
+                1169.8614501953126
+            ],
+            "m_LocalRotation": [
+                128.0780792236328,
+                -51.07065200805664,
+                -91.36178588867188
+            ],
+            "m_Data": {
+                "m_Health": 60.31250762939453,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Ammo_40mm_ChemGas",
+            "m_LocalPosition": [
+                646.1278686523438,
+                475.29742431640627,
+                1169.8614501953126
+            ],
+            "m_LocalRotation": [
+                -129.7814178466797,
+                -9.641153335571289,
+                37.90166473388672
+            ],
+            "m_Data": {
+                "m_Health": 49.812007904052737,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Mag_AK101_30Rnd",
+            "m_LocalPosition": [
+                646.1278686523438,
+                475.4873046875,
+                1169.8614501953126
+            ],
+            "m_LocalRotation": [
+                128.0780792236328,
+                -51.07065200805664,
+                -121.36180114746094
+            ],
+            "m_Data": {
+                "m_Health": 75.71825408935547,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "GorkaPants_Summer",
+            "m_LocalPosition": [
+                646.1278686523438,
+                475.336669921875,
+                1169.8614501953126
+            ],
+            "m_LocalRotation": [
+                -93.00315856933594,
+                -31.335567474365236,
+                24.38803482055664
+            ],
+            "m_Data": {
+                "m_Health": 117.50901794433594,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "GasMask_Filter",
+            "m_LocalPosition": [
+                646.1278686523438,
+                475.3302001953125,
+                1169.8614501953126
+            ],
+            "m_LocalRotation": [
+                40.57875061035156,
+                2.0184223651885988,
+                -38.88528060913086
+            ],
+            "m_Data": {
+                "m_Health": 54.805870056152347,
+                "m_Quantity": 31.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Mag_Expansion_Kedr_20Rnd",
+            "m_LocalPosition": [
+                646.1278686523438,
+                475.40924072265627,
+                1169.8614501953126
+            ],
+            "m_LocalRotation": [
+                128.0780792236328,
+                -51.07065200805664,
+                -121.36180114746094
+            ],
+            "m_Data": {
+                "m_Health": 96.8370590209961,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Ammo_40mm_ChemGas",
+            "m_LocalPosition": [
+                646.1278686523438,
+                475.29742431640627,
+                1169.8614501953126
+            ],
+            "m_LocalRotation": [
+                -141.48629760742188,
+                -0.35185256600379946,
+                38.928001403808597
+            ],
+            "m_Data": {
+                "m_Health": 38.982208251953128,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "AmmoBox_556x45Tracer_20Rnd",
+            "m_LocalPosition": [
+                646.1278686523438,
+                475.3587646484375,
+                1169.8614501953126
+            ],
+            "m_LocalRotation": [
+                128.0780792236328,
+                -51.07065200805664,
+                -51.36179733276367
+            ],
+            "m_Data": {
+                "m_Health": 97.38272857666016,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "AmmoBox_45ACP_25rnd",
+            "m_LocalPosition": [
+                646.1278686523438,
+                475.36138916015627,
+                1169.8614501953126
+            ],
+            "m_LocalRotation": [
+                -51.92190933227539,
+                51.07065200805664,
+                -58.638187408447269
+            ],
+            "m_Data": {
+                "m_Health": 79.2815933227539,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Ammo_556x45",
+            "m_LocalPosition": [
+                646.1278686523438,
+                475.33233642578127,
+                1169.8614501953126
+            ],
+            "m_LocalRotation": [
+                -83.3199691772461,
+                -34.58489227294922,
+                19.10887336730957
+            ],
+            "m_Data": {
+                "m_Health": 75.46678161621094,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Ammo_40mm_ChemGas",
+            "m_LocalPosition": [
+                646.1278686523438,
+                475.29742431640627,
+                1169.8614501953126
+            ],
+            "m_LocalRotation": [
+                34.37797927856445,
+                -2.9839582443237306,
+                -38.83293151855469
+            ],
+            "m_Data": {
+                "m_Health": 34.2786979675293,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "SurgicalGloves_Blue",
+            "m_LocalPosition": [
+                646.1278686523438,
+                475.6492919921875,
+                1169.8614501953126
+            ],
+            "m_LocalRotation": [
+                -97.35700225830078,
+                -29.544889450073243,
+                -153.4050750732422
+            ],
+            "m_Data": {
+                "m_Health": 46.85659408569336,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Mag_CMAG_20Rnd",
+            "m_LocalPosition": [
+                646.1278686523438,
+                475.3841552734375,
+                1169.8614501953126
+            ],
+            "m_LocalRotation": [
+                -51.92190933227539,
+                51.07065200805664,
+                -58.638187408447269
+            ],
+            "m_Data": {
+                "m_Health": 99.65575408935547,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Ammo_40mm_Explosive",
+            "m_LocalPosition": [
+                646.1278686523438,
+                475.29742431640627,
+                1169.8614501953126
+            ],
+            "m_LocalRotation": [
+                107.40129852294922,
+                37.078887939453128,
+                -12.818991661071778
+            ],
+            "m_Data": {
+                "m_Health": 43.40365219116211,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "NBCGlovesGray",
+            "m_LocalPosition": [
+                646.1278686523438,
+                475.3612060546875,
+                1169.8614501953126
+            ],
+            "m_LocalRotation": [
+                155.04823303222657,
+                35.74995803833008,
+                -163.4424285888672
+            ],
+            "m_Data": {
+                "m_Health": 108.23712921142578,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "NBCHoodYellow",
+            "m_LocalPosition": [
+                646.1278686523438,
+                475.3128356933594,
+                1169.8614501953126
+            ],
+            "m_LocalRotation": [
+                29.727975845336915,
+                -6.690325736999512,
+                -38.440406799316409
+            ],
+            "m_Data": {
+                "m_Health": 41.38752365112305,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "NBCBootsGray",
+            "m_LocalPosition": [
+                646.1278686523438,
+                475.30267333984377,
+                1169.8614501953126
+            ],
+            "m_LocalRotation": [
+                -45.124141693115237,
+                -38.73189926147461,
+                -4.265381336212158
+            ],
+            "m_Data": {
+                "m_Health": 67.9427490234375,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "BloodTestKit",
+            "m_LocalPosition": [
+                646.1278686523438,
+                475.3422546386719,
+                1169.8614501953126
+            ],
+            "m_LocalRotation": [
+                128.0780792236328,
+                -51.07065200805664,
+                -121.36180114746094
+            ],
+            "m_Data": {
+                "m_Health": 12.332620620727539,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Ammo_40mm_Explosive",
+            "m_LocalPosition": [
+                646.1278686523438,
+                475.29742431640627,
+                1169.8614501953126
+            ],
+            "m_LocalRotation": [
+                40.909828186035159,
+                2.285184383392334,
+                -38.87284469604492
+            ],
+            "m_Data": {
+                "m_Health": 48.523284912109378,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "PlateCarrierVest_Black",
+            "m_LocalPosition": [
+                646.1278686523438,
+                475.301513671875,
+                1169.8614501953126
+            ],
+            "m_LocalRotation": [
+                -167.28907775878907,
+                19.08827018737793,
+                34.59523391723633
+            ],
+            "m_Data": {
+                "m_Health": 180.02197265625,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": [
+                {
+                    "m_Classname": "PlateCarrierHolster_Black",
+                    "m_Data": {
+                        "m_Health": 81.12124633789063,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "PlateCarrierPouches_Black",
+                    "m_Data": {
+                        "m_Health": 151.11911010742188,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        },
+        {
+            "m_Classname": "SurgicalGloves_LightBlue",
+            "m_LocalPosition": [
+                646.1278686523438,
+                475.63043212890627,
+                1169.8614501953126
+            ],
+            "m_LocalRotation": [
+                20.99519157409668,
+                -13.348219871520996,
+                -36.915645599365237
+            ],
+            "m_Data": {
+                "m_Health": 48.29951095581055,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "AK_Bayonet",
+            "m_LocalPosition": [
+                646.1278686523438,
+                475.3871154785156,
+                1169.8614501953126
+            ],
+            "m_LocalRotation": [
+                -51.92190933227539,
+                51.07065200805664,
+                -58.638187408447269
+            ],
+            "m_Data": {
+                "m_Health": 129.61058044433595,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "ExpansionGunrack",
+            "m_LocalPosition": [
+                646.1278686523438,
+                475.296630859375,
+                1169.8614501953126
+            ],
+            "m_LocalRotation": [
+                56.85292434692383,
+                14.572735786437989,
+                -36.50741195678711
+            ],
+            "m_Data": {
+                "m_Health": 455.2030944824219,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "AmmoBox_762x54Tracer_20Rnd",
+            "m_LocalPosition": [
+                646.1278686523438,
+                475.38641357421877,
+                1169.8614501953126
+            ],
+            "m_LocalRotation": [
+                -51.92190933227539,
+                51.07065200805664,
+                161.36180114746095
+            ],
+            "m_Data": {
+                "m_Health": 95.56626892089844,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Morphine",
+            "m_LocalPosition": [
+                646.1278686523438,
+                475.4195556640625,
+                1169.8614501953126
+            ],
+            "m_LocalRotation": [
+                -51.92190933227539,
+                51.07065200805664,
+                -58.638187408447269
+            ],
+            "m_Data": {
+                "m_Health": 33.7256965637207,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "AmmoBox_556x45Tracer_20Rnd",
+            "m_LocalPosition": [
+                646.1278686523438,
+                475.3587646484375,
+                1169.8614501953126
+            ],
+            "m_LocalRotation": [
+                128.0780792236328,
+                -51.07065200805664,
+                -121.36180114746094
+            ],
+            "m_Data": {
+                "m_Health": 69.02859497070313,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "ExpansionGunrack",
+            "m_LocalPosition": [
+                646.1278686523438,
+                475.296630859375,
+                1169.8614501953126
+            ],
+            "m_LocalRotation": [
+                14.005112648010254,
+                -18.235946655273439,
+                -35.0093994140625
+            ],
+            "m_Data": {
+                "m_Health": 459.01177978515627,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "SurgicalGloves_LightBlue",
+            "m_LocalPosition": [
+                646.1278686523438,
+                475.6492919921875,
+                1169.8614501953126
+            ],
+            "m_LocalRotation": [
+                77.57875061035156,
+                27.193904876708986,
+                150.99703979492188
+            ],
+            "m_Data": {
+                "m_Health": 40.58320999145508,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "AmmoBox_45ACP_25rnd",
+            "m_LocalPosition": [
+                646.1278686523438,
+                475.36138916015627,
+                1169.8614501953126
+            ],
+            "m_LocalRotation": [
+                128.0780792236328,
+                -51.07065200805664,
+                -121.36180114746094
+            ],
+            "m_Data": {
+                "m_Health": 88.87417602539063,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "bl_firewoodstorage_Kit",
+            "m_LocalPosition": [
+                646.1278686523438,
+                474.99993896484377,
+                1169.8614501953126
+            ],
+            "m_LocalRotation": [
+                -151.9109344482422,
+                13.369119644165039,
+                -37.29753494262695
+            ],
+            "m_Data": {
+                "m_Health": 252.90565490722657,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "AmmoBox_45ACP_25rnd",
+            "m_LocalPosition": [
+                646.1278686523438,
+                475.06427001953127,
+                1169.8614501953126
+            ],
+            "m_LocalRotation": [
+                101.28630828857422,
+                50.72636795043945,
+                98.7824478149414
+            ],
+            "m_Data": {
+                "m_Health": 97.26065826416016,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "NBCHoodYellow",
+            "m_LocalPosition": [
+                646.1278686523438,
+                475.0156555175781,
+                1169.8614501953126
+            ],
+            "m_LocalRotation": [
+                -32.64545440673828,
+                29.556825637817384,
+                27.147632598876954
+            ],
+            "m_Data": {
+                "m_Health": 43.336891174316409,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Mag_CMAG_20Rnd",
+            "m_LocalPosition": [
+                646.1278686523438,
+                475.08612060546877,
+                1169.8614501953126
+            ],
+            "m_LocalRotation": [
+                -78.77588653564453,
+                -50.71348190307617,
+                81.26802825927735
+            ],
+            "m_Data": {
+                "m_Health": 60.38453674316406,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "AmmoBox_12gaRubberSlug_10Rnd",
+            "m_LocalPosition": [
+                646.1278686523438,
+                475.0870361328125,
+                1169.8614501953126
+            ],
+            "m_LocalRotation": [
+                -78.63127899169922,
+                -50.743465423583987,
+                81.150634765625
+            ],
+            "m_Data": {
+                "m_Health": 71.2015151977539,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "M79",
+            "m_LocalPosition": [
+                646.1278686523438,
+                475.10382080078127,
+                1169.8614501953126
+            ],
+            "m_LocalRotation": [
+                -78.9000015258789,
+                -50.68775177001953,
+                81.36869049072266
+            ],
+            "m_Data": {
+                "m_Health": 178.29135131835938,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": [
+                {
+                    "m_Classname": "M79DummyOptics",
+                    "m_Data": {
+                        "m_Health": 100.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        },
+        {
+            "m_Classname": "MP5K",
+            "m_LocalPosition": [
+                646.1278686523438,
+                475.0606384277344,
+                1169.8614501953126
+            ],
+            "m_LocalRotation": [
+                101.28688049316406,
+                50.72652053833008,
+                98.78291320800781
+            ],
+            "m_Data": {
+                "m_Health": 142.5714874267578,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": [
+                {
+                    "m_Classname": "MP5_PlasticHndgrd",
+                    "m_Data": {
+                        "m_Health": 148.23297119140626,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "MP5k_StockBttstck",
+                    "m_Data": {
+                        "m_Health": 136.18214416503907,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Mag_MP5_30Rnd",
+                    "m_Data": {
+                        "m_Health": 61.19998550415039,
+                        "m_Quantity": 1.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "M4_T3NRDSOptic",
+                    "m_Data": {
+                        "m_Health": 31.10843276977539,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "MP5_Compensator",
+                    "m_Data": {
+                        "m_Health": 36.3656120300293,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        },
+        {
+            "m_Classname": "Ammo_Expansion_338",
+            "m_LocalPosition": [
+                646.1278686523438,
+                475.0892028808594,
+                1169.8614501953126
+            ],
+            "m_LocalRotation": [
+                -72.76651763916016,
+                39.13185501098633,
+                3.800940752029419
+            ],
+            "m_Data": {
+                "m_Health": 71.70690155029297,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Ammo_Expansion_338",
+            "m_LocalPosition": [
+                646.1278686523438,
+                475.0892028808594,
+                1169.8614501953126
+            ],
+            "m_LocalRotation": [
+                32.521636962890628,
+                -16.54889678955078,
+                36.15385055541992
+            ],
+            "m_Data": {
+                "m_Health": 86.25202178955078,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "VTR_bravo4",
+            "m_LocalPosition": [
+                646.1278686523438,
+                475.0968017578125,
+                1169.8614501953126
+            ],
+            "m_LocalRotation": [
+                -78.89973449707031,
+                -50.687801361083987,
+                81.36846923828125
+            ],
+            "m_Data": {
+                "m_Health": 123.84893035888672,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "AmmoBox_9x39AP_20Rnd",
+            "m_LocalPosition": [
+                646.1278686523438,
+                475.08514404296877,
+                1169.8614501953126
+            ],
+            "m_LocalRotation": [
+                -78.73442840576172,
+                -50.722110748291019,
+                81.23438262939453
+            ],
+            "m_Data": {
+                "m_Health": 71.07943725585938,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Grenade_ChemGas",
+            "m_LocalPosition": [
+                646.1278686523438,
+                475.090087890625,
+                1169.8614501953126
+            ],
+            "m_LocalRotation": [
+                4.451816558837891,
+                5.526247501373291,
+                38.95396423339844
+            ],
+            "m_Data": {
+                "m_Health": 3.9754936695098879,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Grenade_ChemGas",
+            "m_LocalPosition": [
+                646.1278686523438,
+                475.090087890625,
+                1169.8614501953126
+            ],
+            "m_LocalRotation": [
+                4.451816558837891,
+                5.526247501373291,
+                38.95396423339844
+            ],
+            "m_Data": {
+                "m_Health": 3.3546857833862306,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "AmmoBox_380_35rnd",
+            "m_LocalPosition": [
+                646.1278686523438,
+                475.05108642578127,
+                1169.8614501953126
+            ],
+            "m_LocalRotation": [
+                101.2240982055664,
+                50.71348190307617,
+                98.7319564819336
+            ],
+            "m_Data": {
+                "m_Health": 77.15995025634766,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Ssh68Helmet",
+            "m_LocalPosition": [
+                646.1278686523438,
+                475.2182922363281,
+                1169.8614501953126
+            ],
+            "m_LocalRotation": [
+                -78.75521087646485,
+                -50.71779251098633,
+                81.25125122070313
+            ],
+            "m_Data": {
+                "m_Health": 75.93838500976563,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "TortillaBag",
+            "m_LocalPosition": [
+                646.1278686523438,
+                475.1217956542969,
+                1169.8614501953126
+            ],
+            "m_LocalRotation": [
+                -78.58897399902344,
+                -50.752235412597659,
+                81.38758087158203
+            ],
+            "m_Data": {
+                "m_Health": 0.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "PlateCarrierVest_Camo",
+            "m_LocalPosition": [
+                646.1278686523438,
+                475.0043029785156,
+                1169.8614501953126
+            ],
+            "m_LocalRotation": [
+                107.73837280273438,
+                -39.101593017578128,
+                -4.106071949005127
+            ],
+            "m_Data": {
+                "m_Health": 77.52560424804688,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": [
+                {
+                    "m_Classname": "M67Grenade",
+                    "m_Data": {
+                        "m_Health": 33.45159149169922,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        },
+        {
+            "m_Classname": "Ammo_556x45",
+            "m_LocalPosition": [
+                646.1278686523438,
+                475.0351867675781,
+                1169.8614501953126
+            ],
+            "m_LocalRotation": [
+                157.20681762695313,
+                -24.6008243560791,
+                -31.645532608032228
+            ],
+            "m_Data": {
+                "m_Health": 79.74181365966797,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "SmershVest",
+            "m_LocalPosition": [
+                646.1278686523438,
+                475.02325439453127,
+                1169.8614501953126
+            ],
+            "m_LocalRotation": [
+                158.97084045410157,
+                -23.541406631469728,
+                -32.43527603149414
+            ],
+            "m_Data": {
+                "m_Health": 107.85284423828125,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "SmershVest",
+            "m_LocalPosition": [
+                646.1278686523438,
+                475.02325439453127,
+                1169.8614501953126
+            ],
+            "m_LocalRotation": [
+                -18.78082847595215,
+                22.202470779418947,
+                33.30929183959961
+            ],
+            "m_Data": {
+                "m_Health": 81.21139526367188,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "SmershVest",
+            "m_LocalPosition": [
+                646.1278686523438,
+                475.02325439453127,
+                1169.8614501953126
+            ],
+            "m_LocalRotation": [
+                120.12387084960938,
+                -37.743473052978519,
+                -11.904117584228516
+            ],
+            "m_Data": {
+                "m_Health": 97.1183853149414,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "PolicePants",
+            "m_LocalPosition": [
+                646.1278686523438,
+                475.0043029785156,
+                1169.8614501953126
+            ],
+            "m_LocalRotation": [
+                -62.24068832397461,
+                38.10455322265625,
+                10.368328094482422
+            ],
+            "m_Data": {
+                "m_Health": 125.68663787841797,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Truck_01_Door_1_1_GreenRust",
+            "m_LocalPosition": [
+                646.1278686523438,
+                474.89520263671877,
+                1169.8614501953126
+            ],
+            "m_LocalRotation": [
+                161.30377197265626,
+                -42.923831939697269,
+                102.97802734375
+            ],
+            "m_Data": {
+                "m_Health": 334.3699645996094,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "GasMask_Filter",
+            "m_LocalPosition": [
+                646.1278686523438,
+                474.74566650390627,
+                1169.8614501953126
+            ],
+            "m_LocalRotation": [
+                68.8778305053711,
+                19.48453140258789,
+                40.80820083618164
+            ],
+            "m_Data": {
+                "m_Health": 72.88357543945313,
+                "m_Quantity": 125.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "M4_MPBttstck",
+            "m_LocalPosition": [
+                646.1278686523438,
+                474.81756591796877,
+                1169.8614501953126
+            ],
+            "m_LocalRotation": [
+                180.0,
+                45.524879455566409,
+                -180.0
+            ],
+            "m_Data": {
+                "m_Health": 206.10723876953126,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "M4_MPBttstck",
+            "m_LocalPosition": [
+                646.1278686523438,
+                474.8168640136719,
+                1169.8614501953126
+            ],
+            "m_LocalRotation": [
+                0.0,
+                -45.524879455566409,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 196.53028869628907,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "FireplaceIndoor",
+            "m_LocalPosition": [
+                646.1278686523438,
+                474.7187805175781,
+                1169.8614501953126
+            ],
+            "m_LocalRotation": [
+                179.4304656982422,
+                -44.47367858886719,
+                0.3990028202533722
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 21
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "TortillaBag",
+            "m_LocalPosition": [
+                646.1278686523438,
+                474.8344421386719,
+                1169.8614501953126
+            ],
+            "m_LocalRotation": [
+                0.0,
+                -45.524879455566409,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 180.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": [
+                {
+                    "m_Classname": "Mag_Glock_15Rnd",
+                    "m_Data": {
+                        "m_Health": 63.8599739074707,
+                        "m_Quantity": 1.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Ammo_45ACP",
+                    "m_Data": {
+                        "m_Health": 86.64388275146485,
+                        "m_Quantity": 1.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "AmmoBox_Expansion_46x30_25rnd",
+                    "m_Data": {
+                        "m_Health": 99.1076431274414,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Mag_1911_7Rnd",
+                    "m_Data": {
+                        "m_Health": 78.81893157958985,
+                        "m_Quantity": 1.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Expansion_Taser_Yellow",
+                    "m_Data": {
+                        "m_Health": 81.75115203857422,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "AmmoBox_762x54Tracer_20Rnd",
+                    "m_Data": {
+                        "m_Health": 75.00411987304688,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "AmmoBox_762x54Tracer_20Rnd",
+                    "m_Data": {
+                        "m_Health": 98.87326049804688,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "ReflexOptic",
+                    "m_Data": {
+                        "m_Health": 23.73210906982422,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Mag_Expansion_Taser",
+                    "m_Data": {
+                        "m_Health": 81.14810943603516,
+                        "m_Quantity": 1.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        },
+        {
+            "m_Classname": "HockeyMask",
+            "m_LocalPosition": [
+                646.1278686523438,
+                474.7381591796875,
+                1169.8614501953126
+            ],
+            "m_LocalRotation": [
+                -78.30191040039063,
+                11.25886058807373,
+                -43.31804275512695
+            ],
+            "m_Data": {
+                "m_Health": 90.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "AmmoBox_12gaRubberSlug_10Rnd",
+            "m_LocalPosition": [
+                646.1278686523438,
+                474.797607421875,
+                1169.8614501953126
+            ],
+            "m_LocalRotation": [
+                180.0,
+                45.524879455566409,
+                -180.0
+            ],
+            "m_Data": {
+                "m_Health": 83.96068572998047,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Ammo_556x45",
+            "m_LocalPosition": [
+                646.1278686523438,
+                474.747802734375,
+                1169.8614501953126
+            ],
+            "m_LocalRotation": [
+                120.90560150146485,
+                -26.76177978515625,
+                36.950477600097659
+            ],
+            "m_Data": {
+                "m_Health": 97.63542175292969,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Grenade_ChemGas",
+            "m_LocalPosition": [
+                646.1278686523438,
+                474.802734375,
+                1169.8614501953126
+            ],
+            "m_LocalRotation": [
+                0.0,
+                44.475093841552737,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 4.068941116333008,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Grenade_ChemGas",
+            "m_LocalPosition": [
+                646.1278686523438,
+                474.802734375,
+                1169.8614501953126
+            ],
+            "m_LocalRotation": [
+                0.0,
+                44.475093841552737,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 4.593615531921387,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "SurgicalGloves_White",
+            "m_LocalPosition": [
+                646.1278686523438,
+                475.06475830078127,
+                1169.8614501953126
+            ],
+            "m_LocalRotation": [
+                -167.23976135253907,
+                -43.7590446472168,
+                171.09812927246095
+            ],
+            "m_Data": {
+                "m_Health": 49.36704635620117,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Ammo_9x39AP",
+            "m_LocalPosition": [
+                646.1278686523438,
+                474.73883056640627,
+                1169.8614501953126
+            ],
+            "m_LocalRotation": [
+                148.01051330566407,
+                -39.78570556640625,
+                21.78667449951172
+            ],
+            "m_Data": {
+                "m_Health": 97.30948638916016,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "TacticalShirt_Olive",
+            "m_LocalPosition": [
+                646.1278686523438,
+                474.71697998046877,
+                1169.8614501953126
+            ],
+            "m_LocalRotation": [
+                -61.88508987426758,
+                24.82927894592285,
+                -38.16524887084961
+            ],
+            "m_Data": {
+                "m_Health": 80.42621612548828,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Ammo_Expansion_M203_Sticky_Smoke_Red",
+            "m_LocalPosition": [
+                646.1278686523438,
+                474.8050842285156,
+                1169.8614501953126
+            ],
+            "m_LocalRotation": [
+                -61.34088134765625,
+                25.215251922607423,
+                -37.935054779052737
+            ],
+            "m_Data": {
+                "m_Health": 68.27295684814453,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        }
+    ]
+}

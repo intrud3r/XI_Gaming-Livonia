@@ -1,0 +1,564 @@
+{
+    "Types": [
+        "",
+        "",
+        "CityCapital",
+        "Hill",
+        "StrongpointArea",
+        "Villa",
+        "Villag",
+        "Village"
+    ],
+    "Locations": [
+        {
+            "Type": "",
+            "Name": "Adamowsk",
+            "Position": [
+                11611.98046875,
+                0.0,
+                8918.6298828125
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "StrongpointArea",
+            "Name": "Adamowsk Industrial",
+            "Position": [
+                11830.080078125,
+                0.0,
+                8733.48046875
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "StrongpointArea",
+            "Name": "Adamowsk Industrial",
+            "Position": [
+                11830.080078125,
+                0.0,
+                8733.48046875
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "",
+            "Name": "Alekssevka",
+            "Position": [
+                13929.33984375,
+                0.0,
+                11115.58984375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "",
+            "Name": "Babrujsk",
+            "Position": [
+                4753.83984375,
+                0.0,
+                11355.83984375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Hill",
+            "Name": "Babrujsk Army control point",
+            "Position": [
+                5509.31005859375,
+                0.0,
+                10988.5400390625
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "",
+            "Name": "Berasino",
+            "Position": [
+                3143.909912109375,
+                0.0,
+                9322.6103515625
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "StrongpointArea",
+            "Name": "Berasino Industial",
+            "Position": [
+                3187.1298828125,
+                0.0,
+                8560.5498046875
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "StrongpointArea",
+            "Name": "Berasino Militarycamp",
+            "Position": [
+                3671.6201171875,
+                0.0,
+                8341.9296875
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Hill",
+            "Name": "Berasino_Militaryoutpost",
+            "Position": [
+                4657.22998046875,
+                0.0,
+                8424.2001953125
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "",
+            "Name": "Bezodnya",
+            "Position": [
+                4335.830078125,
+                0.0,
+                928.6199951171875
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "",
+            "Name": "Borowoje",
+            "Position": [
+                11485.2998046875,
+                0.0,
+                12620.4404296875
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "StrongpointArea",
+            "Name": "Borowoje Industial",
+            "Position": [
+                11998.6396484375,
+                0.0,
+                12632.75
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Villag",
+            "Name": "Bychau",
+            "Position": [
+                5830.85009765625,
+                0.0,
+                13124.9501953125
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Village",
+            "Name": "Dobrowo",
+            "Position": [
+                12802.75,
+                0.0,
+                8383.73046875
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Village",
+            "Name": "Domnowo",
+            "Position": [
+                8713.3603515625,
+                0.0,
+                13233.0400390625
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "StrongpointArea",
+            "Name": "Domnowo Military Base",
+            "Position": [
+                8482.7998046875,
+                0.0,
+                13584.2900390625
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Villag",
+            "Name": "Dribin",
+            "Position": [
+                4905.77978515625,
+                0.0,
+                9282.25
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "",
+            "Name": "Dworkino",
+            "Position": [
+                3724.8798828125,
+                0.0,
+                3143.409912109375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "",
+            "Name": "Gorlowka",
+            "Position": [
+                9235.8203125,
+                0.0,
+                4872.2001953125
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Villag",
+            "Name": "Hrodva",
+            "Position": [
+                4903.02978515625,
+                0.0,
+                7384.35986328125
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Hill",
+            "Name": "Industrial",
+            "Position": [
+                10082.0302734375,
+                0.0,
+                13263.3203125
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Hill",
+            "Name": "Industrial",
+            "Position": [
+                10082.0302734375,
+                0.0,
+                13263.3203125
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Villa",
+            "Name": "Jelsk",
+            "Position": [
+                862.6699829101563,
+                0.0,
+                8227.41015625
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "",
+            "Name": "Klettzk",
+            "Position": [
+                1038.22998046875,
+                0.0,
+                3973.10009765625
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "StrongpointArea",
+            "Name": "Klettzk  Radiotower",
+            "Position": [
+                622.3400268554688,
+                0.0,
+                2661.820068359375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "",
+            "Name": "Kolyzovka",
+            "Position": [
+                2770.300048828125,
+                0.0,
+                13201.1201171875
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Villag",
+            "Name": "Kovrin",
+            "Position": [
+                4120.68994140625,
+                0.0,
+                4238.1201171875
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "CityCapital",
+            "Name": "Krasnapolle",
+            "Position": [
+                8780.0498046875,
+                0.0,
+                2218.360107421875
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Villag",
+            "Name": "Krupki",
+            "Position": [
+                5926.93994140625,
+                0.0,
+                5122.56005859375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Villa",
+            "Name": "Mieva",
+            "Position": [
+                4177.68017578125,
+                0.0,
+                6485.580078125
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "StrongpointArea",
+            "Name": "Mieva Airbase",
+            "Position": [
+                4337.33984375,
+                0.0,
+                5608.35986328125
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Hill",
+            "Name": "Mieva Castleruins",
+            "Position": [
+                2891.25,
+                0.0,
+                5648.77001953125
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "StrongpointArea",
+            "Name": "Old Mine",
+            "Position": [
+                1760.3199462890626,
+                0.0,
+                2985.1298828125
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "",
+            "Name": "Old Orschka",
+            "Position": [
+                5991.14013671875,
+                0.0,
+                10581.0400390625
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Village",
+            "Name": "Olgowka",
+            "Position": [
+                13413.6796875,
+                0.0,
+                7132.27978515625
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Village",
+            "Name": "Orlesko",
+            "Position": [
+                8091.2099609375,
+                0.0,
+                7649.85986328125
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "StrongpointArea",
+            "Name": "Orlesko Radiotower",
+            "Position": [
+                7892.68994140625,
+                0.0,
+                7914.990234375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Village",
+            "Name": "Orschka",
+            "Position": [
+                6813.759765625,
+                0.0,
+                10877.0498046875
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Hill",
+            "Name": "Orschka Army controlpoint",
+            "Position": [
+                7244.14013671875,
+                0.0,
+                11559.8896484375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "",
+            "Name": "Orschka Castleruins",
+            "Position": [
+                7188.81005859375,
+                0.0,
+                12327.2197265625
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "StrongpointArea",
+            "Name": "Orschka Prison",
+            "Position": [
+                7870.18994140625,
+                0.0,
+                4096.31005859375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "",
+            "Name": "Ostrovez",
+            "Position": [
+                9422.5703125,
+                0.0,
+                10454.2998046875
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "StrongpointArea",
+            "Name": "Ostrovez Industrial",
+            "Position": [
+                9682.98046875,
+                0.0,
+                10990.150390625
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "StrongpointArea",
+            "Name": "Ostrovez Industrial",
+            "Position": [
+                9682.98046875,
+                0.0,
+                10990.150390625
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "StrongpointArea",
+            "Name": "OstrovezAirfield",
+            "Position": [
+                10666.33984375,
+                0.0,
+                10449.41015625
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "StrongpointArea",
+            "Name": "Pavlovka Military Testing Area",
+            "Position": [
+                7182.27001953125,
+                0.0,
+                509.69000244140627
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "",
+            "Name": "Prudnoje",
+            "Position": [
+                10221.400390625,
+                0.0,
+                1335.9200439453126
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "",
+            "Name": "Purification Plant",
+            "Position": [
+                2677.300048828125,
+                0.0,
+                9424.6396484375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Village",
+            "Name": "Rasponi",
+            "Position": [
+                9405.2802734375,
+                0.0,
+                8778.16015625
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Villag",
+            "Name": "Rezoni",
+            "Position": [
+                10009.7001953125,
+                0.0,
+                6760.919921875
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Hill",
+            "Name": "Rezoni Mine",
+            "Position": [
+                10229.1796875,
+                0.0,
+                5913.06982421875
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "",
+            "Name": "Sawmill",
+            "Position": [
+                4615.080078125,
+                0.0,
+                6608.2099609375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Villag",
+            "Name": "Slowin",
+            "Position": [
+                1177.02001953125,
+                0.0,
+                12691.9599609375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "StrongpointArea",
+            "Name": "Sportsfacility",
+            "Position": [
+                10599.009765625,
+                0.0,
+                6511.60986328125
+            ],
+            "Radius": 4.0
+        }
+    ]
+}

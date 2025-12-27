@@ -1,0 +1,26 @@
+{
+    "m_IsLocalPosition": 0,
+    "m_Items": [
+        {
+            "m_Classname": "BF_DoubleDoorBarricade",
+            "m_LocalPosition": [
+                7492.97509765625,
+                124.14749145507813,
+                6338.244140625
+            ],
+            "m_LocalRotation": [
+                -50.25666809082031,
+                0.0000025927397473424209,
+                -0.000009676582521933597
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        }
+    ]
+}

@@ -1,0 +1,384 @@
+{
+    "Types": [
+        "ALL",
+        "",
+        "City",
+        "CityCa",
+        "CityCap",
+        "CityCapi",
+        "Hill",
+        "StrongpointArea"
+    ],
+    "Locations": [
+        {
+            "Type": "",
+            "Name": "Algonquin",
+            "Position": [
+                4371.1298828125,
+                0.0,
+                7587.18994140625
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Hill",
+            "Name": "Apple Orchard",
+            "Position": [
+                6785.169921875,
+                0.0,
+                5732.7099609375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "",
+            "Name": "Boat Rental",
+            "Position": [
+                8408.5595703125,
+                0.0,
+                6184.169921875
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "",
+            "Name": "Brickworks",
+            "Position": [
+                8750.919921875,
+                0.0,
+                4348.7900390625
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "",
+            "Name": "Cayuga",
+            "Position": [
+                8806.0595703125,
+                0.0,
+                3655.469970703125
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "StrongpointArea",
+            "Name": "Communications Office",
+            "Position": [
+                5228.47021484375,
+                0.0,
+                5187.66015625
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Hill",
+            "Name": "Dave's Diner",
+            "Position": [
+                8086.6298828125,
+                0.0,
+                3691.610107421875
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Hill",
+            "Name": "Dead Sword Redoubt",
+            "Position": [
+                7518.93994140625,
+                0.0,
+                3675.409912109375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "",
+            "Name": "East Police HQ",
+            "Position": [
+                7997.580078125,
+                0.0,
+                4308.66015625
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Hill",
+            "Name": "East Road Block",
+            "Position": [
+                7692.27001953125,
+                0.0,
+                4903.43994140625
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Hill",
+            "Name": "East Training Camp",
+            "Position": [
+                8816.1298828125,
+                0.0,
+                2327.77001953125
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "City",
+            "Name": "Erie",
+            "Position": [
+                879.25,
+                0.0,
+                8162.60009765625
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "StrongpointArea",
+            "Name": "Extraction Facility",
+            "Position": [
+                5718.77978515625,
+                0.0,
+                3522.159912109375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Hill",
+            "Name": "Farmers Market",
+            "Position": [
+                8104.60986328125,
+                0.0,
+                3336.969970703125
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "",
+            "Name": "Garrison Depot",
+            "Position": [
+                5887.2001953125,
+                0.0,
+                3964.4599609375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "",
+            "Name": "Gas Station",
+            "Position": [
+                1396.030029296875,
+                0.0,
+                7675.5400390625
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "",
+            "Name": "Gas Station",
+            "Position": [
+                1396.030029296875,
+                0.0,
+                7675.5400390625
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "",
+            "Name": "Huron",
+            "Position": [
+                6121.02978515625,
+                0.0,
+                8144.14990234375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "StrongpointArea",
+            "Name": "Incubation Center",
+            "Position": [
+                3870.8798828125,
+                0.0,
+                5862.10986328125
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Hill",
+            "Name": "Logging Camp",
+            "Position": [
+                5329.39013671875,
+                0.0,
+                7716.009765625
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "",
+            "Name": "Mohawk",
+            "Position": [
+                8434.669921875,
+                0.0,
+                6860.580078125
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "",
+            "Name": "Net Logistics",
+            "Position": [
+                5442.0498046875,
+                0.0,
+                7024.52978515625
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "",
+            "Name": "OWF Industries",
+            "Position": [
+                7267.2998046875,
+                0.0,
+                4261.31982421875
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "CityCa",
+            "Name": "Oneida",
+            "Position": [
+                2675.159912109375,
+                0.0,
+                6859.580078125
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "CityCapi",
+            "Name": "Onondaga",
+            "Position": [
+                6346.9501953125,
+                0.0,
+                6220.27001953125
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "CityCap",
+            "Name": "Ontario",
+            "Position": [
+                7688.60986328125,
+                0.0,
+                3021.7099609375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "StrongpointArea",
+            "Name": "Passage",
+            "Position": [
+                4518.9501953125,
+                0.0,
+                4333.39990234375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Hill",
+            "Name": "Radio Station",
+            "Position": [
+                2748.22998046875,
+                0.0,
+                7483.5
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "",
+            "Name": "Seneca",
+            "Position": [
+                7503.5,
+                0.0,
+                1427.6700439453126
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Hill",
+            "Name": "Stary Kat Drive In",
+            "Position": [
+                3875.360107421875,
+                0.0,
+                6782.4599609375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Hill",
+            "Name": "The Old House",
+            "Position": [
+                8360.2197265625,
+                0.0,
+                8591.5595703125
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Hill",
+            "Name": "The Retreat",
+            "Position": [
+                8376.919921875,
+                0.0,
+                3101.02001953125
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "",
+            "Name": "Tuscarora",
+            "Position": [
+                2090.22998046875,
+                0.0,
+                8417.0595703125
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "",
+            "Name": "West Police HQ",
+            "Position": [
+                4085.590087890625,
+                0.0,
+                6981.89990234375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Hill",
+            "Name": "West Road Block",
+            "Position": [
+                5073.8798828125,
+                0.0,
+                6939.89990234375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Hill",
+            "Name": "West Training Camp",
+            "Position": [
+                3003.110107421875,
+                0.0,
+                7965.9501953125
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "",
+            "Name": "Wind Farm",
+            "Position": [
+                6646.89013671875,
+                0.0,
+                6964.39990234375
+            ],
+            "Radius": 4.0
+        }
+    ]
+}

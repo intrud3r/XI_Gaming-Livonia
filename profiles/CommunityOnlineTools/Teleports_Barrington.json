@@ -1,0 +1,439 @@
+{
+    "Types": [
+        "ALL",
+        "",
+        "City"
+    ],
+    "Locations": [
+        {
+            "Type": "",
+            "Name": "Addersfield",
+            "Position": [
+                1557.1300048828126,
+                0.0,
+                5656.33984375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "",
+            "Name": "Arkaley",
+            "Position": [
+                5010.169921875,
+                0.0,
+                6324.5
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "",
+            "Name": "Badger",
+            "Position": [
+                8848.6396484375,
+                0.0,
+                8434.7802734375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "",
+            "Name": "Bailey",
+            "Position": [
+                9404.9404296875,
+                0.0,
+                546.1699829101563
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "",
+            "Name": "Barrington",
+            "Position": [
+                3726.919921875,
+                0.0,
+                9768.1396484375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "",
+            "Name": "Beaver Den",
+            "Position": [
+                880.469970703125,
+                0.0,
+                659.6799926757813
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "",
+            "Name": "Beer Garden",
+            "Position": [
+                5347.080078125,
+                0.0,
+                593.8099975585938
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "",
+            "Name": "Blunt",
+            "Position": [
+                5941.10986328125,
+                0.0,
+                9089.48046875
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "",
+            "Name": "Elmore",
+            "Position": [
+                6797.52978515625,
+                0.0,
+                1888.47998046875
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "City",
+            "Name": "Endo",
+            "Position": [
+                5048.77001953125,
+                0.0,
+                1445.0799560546876
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "",
+            "Name": "Freshie Farm",
+            "Position": [
+                9531.099609375,
+                0.0,
+                8228.2197265625
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "",
+            "Name": "Greenville",
+            "Position": [
+                6541.66015625,
+                0.0,
+                8696.5703125
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "",
+            "Name": "Harmony",
+            "Position": [
+                7858.64013671875,
+                0.0,
+                8228.740234375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "",
+            "Name": "Harte",
+            "Position": [
+                8955.9404296875,
+                0.0,
+                5708.009765625
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "",
+            "Name": "Homestead",
+            "Position": [
+                7925.1298828125,
+                0.0,
+                7061.39990234375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "",
+            "Name": "Indica",
+            "Position": [
+                8468.08984375,
+                0.0,
+                9563.8798828125
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "",
+            "Name": "Labyrinth",
+            "Position": [
+                8891.41015625,
+                0.0,
+                2304.280029296875
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "",
+            "Name": "Lax's Shed",
+            "Position": [
+                3013.419921875,
+                0.0,
+                9934.23046875
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "",
+            "Name": "LiL' Farm",
+            "Position": [
+                7011.97021484375,
+                0.0,
+                9539.9404296875
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "",
+            "Name": "MJ Island",
+            "Position": [
+                2560.27001953125,
+                0.0,
+                2631.56005859375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "",
+            "Name": "Military Industrial Complex",
+            "Position": [
+                1051.1800537109376,
+                0.0,
+                9759.1103515625
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "",
+            "Name": "Military Prison",
+            "Position": [
+                3585.669921875,
+                0.0,
+                4205.75
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "",
+            "Name": "Oliver",
+            "Position": [
+                6157.77978515625,
+                0.0,
+                4280.9501953125
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "",
+            "Name": "Overgrown Cabins",
+            "Position": [
+                7222.7001953125,
+                0.0,
+                8163.60009765625
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "",
+            "Name": "Pinder",
+            "Position": [
+                5086.66015625,
+                0.0,
+                7829.27001953125
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "",
+            "Name": "Port Leymont",
+            "Position": [
+                736.5800170898438,
+                0.0,
+                6245.47021484375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "",
+            "Name": "Prolab-Z",
+            "Position": [
+                240.44000244140626,
+                0.0,
+                3360.3701171875
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "",
+            "Name": "RedEye",
+            "Position": [
+                5809.60986328125,
+                0.0,
+                9865.2197265625
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "",
+            "Name": "Research Facility",
+            "Position": [
+                6498.85986328125,
+                0.0,
+                3117.97998046875
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "",
+            "Name": "Roachburn",
+            "Position": [
+                7679.0,
+                0.0,
+                9768.1298828125
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "",
+            "Name": "Road Kill Island",
+            "Position": [
+                5036.2900390625,
+                0.0,
+                2761.1298828125
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "",
+            "Name": "Sativa",
+            "Position": [
+                7139.22998046875,
+                0.0,
+                7002.06005859375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "",
+            "Name": "Shifty",
+            "Position": [
+                7641.9501953125,
+                0.0,
+                8782.9697265625
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "",
+            "Name": "Slain Castle",
+            "Position": [
+                4022.800048828125,
+                0.0,
+                5517.7001953125
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "",
+            "Name": "South Port",
+            "Position": [
+                6605.06005859375,
+                0.0,
+                458.1300048828125
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "",
+            "Name": "Survivor Settlement",
+            "Position": [
+                6143.89990234375,
+                0.0,
+                7922.77978515625
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "",
+            "Name": "The Factory",
+            "Position": [
+                3438.93994140625,
+                0.0,
+                8214.8603515625
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "",
+            "Name": "The Swamp",
+            "Position": [
+                2488.719970703125,
+                0.0,
+                4725.52978515625
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "",
+            "Name": "Warneford",
+            "Position": [
+                9203.240234375,
+                0.0,
+                3841.14990234375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "",
+            "Name": "West Hydeswor",
+            "Position": [
+                1161.199951171875,
+                0.0,
+                7285.9599609375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "",
+            "Name": "Witsend",
+            "Position": [
+                3838.9599609375,
+                0.0,
+                6838.31982421875
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "",
+            "Name": "Wolves Pass",
+            "Position": [
+                6816.4501953125,
+                0.0,
+                7378.7001953125
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "",
+            "Name": "Zone 18",
+            "Position": [
+                6614.02978515625,
+                0.0,
+                9937.919921875
+            ],
+            "Radius": 4.0
+        }
+    ]
+}

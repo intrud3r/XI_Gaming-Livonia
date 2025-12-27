@@ -1,0 +1,78 @@
+{
+    "m_IsLocalPosition": 0,
+    "m_Items": [
+        {
+            "m_Classname": "PetrolLighter",
+            "m_LocalPosition": [
+                1677.8067626953126,
+                217.54644775390626,
+                1987.3294677734376
+            ],
+            "m_LocalRotation": [
+                -163.02011108398438,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 20.0,
+                "m_Quantity": 20.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Fireplace",
+            "m_LocalPosition": [
+                1677.8067626953126,
+                217.50286865234376,
+                1987.3294677734376
+            ],
+            "m_LocalRotation": [
+                72.38011932373047,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 59.08119583129883,
+                "m_LiquidType": 0,
+                "m_Temperature": 500
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": [
+                {
+                    "m_Classname": "Firewood",
+                    "m_Data": {
+                        "m_Health": 150.0,
+                        "m_Quantity": 6.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "WoodenStick",
+                    "m_Data": {
+                        "m_Health": 15.0,
+                        "m_Quantity": 8.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Stone",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 16.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        }
+    ]
+}

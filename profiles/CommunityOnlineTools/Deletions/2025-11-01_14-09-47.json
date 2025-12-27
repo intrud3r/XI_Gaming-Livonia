@@ -1,0 +1,26 @@
+{
+    "m_IsLocalPosition": 0,
+    "m_Items": [
+        {
+            "m_Classname": "Ammo_Expansion_46x30",
+            "m_LocalPosition": [
+                646.2097778320313,
+                532.6302490234375,
+                1165.772705078125
+            ],
+            "m_LocalRotation": [
+                -109.62492370605469,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 70.01129150390625,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        }
+    ]
+}

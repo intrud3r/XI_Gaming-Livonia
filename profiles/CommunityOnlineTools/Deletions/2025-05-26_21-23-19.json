@@ -1,0 +1,173 @@
+{
+    "m_IsLocalPosition": 0,
+    "m_Items": [
+        {
+            "m_Classname": "Mag_IJ70_8Rnd",
+            "m_LocalPosition": [
+                10046.2939453125,
+                7.2252960205078129,
+                2020.2943115234376
+            ],
+            "m_LocalRotation": [
+                0.0,
+                -90.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 55.0,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Poncho_Green",
+            "m_LocalPosition": [
+                4521.32470703125,
+                339.8667297363281,
+                9402.4033203125
+            ],
+            "m_LocalRotation": [
+                -153.43234252929688,
+                -0.34540796279907229,
+                -0.13413786888122559
+            ],
+            "m_Data": {
+                "m_Health": 164.9988555908203,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "ZmbF_kid3",
+            "m_LocalPosition": [
+                4169.4638671875,
+                214.35971069335938,
+                3725.821533203125
+            ],
+            "m_LocalRotation": [
+                78.5753402709961,
+                -0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 15
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "ZmbF_kid3",
+            "m_LocalPosition": [
+                4176.6171875,
+                214.5891571044922,
+                3727.46044921875
+            ],
+            "m_LocalRotation": [
+                62.994354248046878,
+                -0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 69.4000015258789,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 15
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "ZmbF_kid",
+            "m_LocalPosition": [
+                4152.95361328125,
+                214.3863067626953,
+                3724.76171875
+            ],
+            "m_LocalRotation": [
+                -91.14091491699219,
+                -0.8451349139213562,
+                -0.12680190801620484
+            ],
+            "m_Data": {
+                "m_Health": 0.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 10
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "ZmbM_kid2",
+            "m_LocalPosition": [
+                4164.6513671875,
+                214.0516357421875,
+                3723.81982421875
+            ],
+            "m_LocalRotation": [
+                77.10796356201172,
+                -0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 86.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 15
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "ZmbF_kid2",
+            "m_LocalPosition": [
+                4176.69775390625,
+                214.5994110107422,
+                3727.869873046875
+            ],
+            "m_LocalRotation": [
+                54.45094680786133,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 61.599998474121097,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 15
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "ZmbF_kid3",
+            "m_LocalPosition": [
+                4155.02587890625,
+                214.42095947265626,
+                3721.534423828125
+            ],
+            "m_LocalRotation": [
+                73.58534240722656,
+                -0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 15
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        }
+    ]
+}

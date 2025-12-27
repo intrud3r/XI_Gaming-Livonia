@@ -1,0 +1,509 @@
+{
+    "m_IsLocalPosition": 0,
+    "m_Items": [
+        {
+            "m_Classname": "Hel_MagazineLoading_DeepRed_SLOT3",
+            "m_LocalPosition": [
+                3539.32470703125,
+                148.05335998535157,
+                3719.326416015625
+            ],
+            "m_LocalRotation": [
+                -123.36923217773438,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 99999.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Hel_MagazineLoading_DeepBlue_SLOT3",
+            "m_LocalPosition": [
+                3539.30078125,
+                147.8795166015625,
+                3718.61279296875
+            ],
+            "m_LocalRotation": [
+                91.40902709960938,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 99999.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Hel_MagazineLoading_DeepMagenta_SLOT3",
+            "m_LocalPosition": [
+                3539.216064453125,
+                148.03651428222657,
+                3719.09423828125
+            ],
+            "m_LocalRotation": [
+                -160.08665466308595,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 99999.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Hel_MagazineLoading_DeepYellow_SLOT3",
+            "m_LocalPosition": [
+                3539.48486328125,
+                148.1544952392578,
+                3719.51708984375
+            ],
+            "m_LocalRotation": [
+                95.47408294677735,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 99999.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Hel_MagazineLoading_AdminCase",
+            "m_LocalPosition": [
+                3540.105224609375,
+                148.39840698242188,
+                3720.023681640625
+            ],
+            "m_LocalRotation": [
+                0.0,
+                -90.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 99999.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Hel_MagazineLoading_DeepYellowCamo_SLOT3",
+            "m_LocalPosition": [
+                3540.13623046875,
+                148.11216735839845,
+                3719.602294921875
+            ],
+            "m_LocalRotation": [
+                139.75038146972657,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 99999.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Hel_MagazineLoading_Case",
+            "m_LocalPosition": [
+                3540.111572265625,
+                148.29544067382813,
+                3719.91162109375
+            ],
+            "m_LocalRotation": [
+                0.0,
+                -90.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 750.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Hel_MagazineLoading_YellowCase_SLOT2",
+            "m_LocalPosition": [
+                3540.106201171875,
+                148.3932647705078,
+                3720.022216796875
+            ],
+            "m_LocalRotation": [
+                0.0,
+                -90.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 750.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Hel_MagazineLoading_RedCase",
+            "m_LocalPosition": [
+                3540.106201171875,
+                148.39932250976563,
+                3720.0244140625
+            ],
+            "m_LocalRotation": [
+                0.0,
+                -90.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 750.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Hel_MagazineLoading_MagentaCase",
+            "m_LocalPosition": [
+                3540.106201171875,
+                148.39218139648438,
+                3720.02197265625
+            ],
+            "m_LocalRotation": [
+                0.0,
+                -90.0,
+                -180.0
+            ],
+            "m_Data": {
+                "m_Health": 750.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Hel_MagazineLoading_YellowCase",
+            "m_LocalPosition": [
+                3540.10693359375,
+                148.3905487060547,
+                3720.022216796875
+            ],
+            "m_LocalRotation": [
+                0.0,
+                -90.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 750.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Hel_MagazineLoading_Case_SLOT2",
+            "m_LocalPosition": [
+                3540.10595703125,
+                148.39341735839845,
+                3720.02197265625
+            ],
+            "m_LocalRotation": [
+                0.0,
+                -90.0,
+                0.0
+            ],
+            "m_Data": {
+                "m_Health": 750.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Hel_MagazineLoading_BlueCase",
+            "m_LocalPosition": [
+                3540.10595703125,
+                148.39051818847657,
+                3720.021484375
+            ],
+            "m_LocalRotation": [
+                0.0,
+                -90.0,
+                -180.0
+            ],
+            "m_Data": {
+                "m_Health": 750.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Hel_MagazineLoading_AdminCase_SLOT3",
+            "m_LocalPosition": [
+                3540.106201171875,
+                148.3987274169922,
+                3720.024169921875
+            ],
+            "m_LocalRotation": [
+                0.0,
+                -90.0,
+                0.0
+            ],
+            "m_Data": {
+                "m_Health": 99999.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Hel_MagazineLoading_RedCase_SLOT2",
+            "m_LocalPosition": [
+                3540.105712890625,
+                148.3935089111328,
+                3720.023193359375
+            ],
+            "m_LocalRotation": [
+                0.0,
+                -90.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 750.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Hel_MagazineLoading_MagentaCase_SLOT2",
+            "m_LocalPosition": [
+                3540.106201171875,
+                148.3959197998047,
+                3720.0224609375
+            ],
+            "m_LocalRotation": [
+                0.0,
+                -90.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 750.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Hel_MagazineLoading_BlueCase_SLOT3",
+            "m_LocalPosition": [
+                3540.105712890625,
+                148.39076232910157,
+                3720.021240234375
+            ],
+            "m_LocalRotation": [
+                0.0,
+                -90.0,
+                -180.0
+            ],
+            "m_Data": {
+                "m_Health": 750.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Hel_MagazineLoading_Case_SLOT3",
+            "m_LocalPosition": [
+                3540.10595703125,
+                148.3922119140625,
+                3720.02197265625
+            ],
+            "m_LocalRotation": [
+                0.0,
+                -90.0,
+                -180.0
+            ],
+            "m_Data": {
+                "m_Health": 750.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Hel_MagazineLoading_MagentaCase_SLOT3",
+            "m_LocalPosition": [
+                3540.1064453125,
+                148.3956756591797,
+                3720.022216796875
+            ],
+            "m_LocalRotation": [
+                0.0,
+                -90.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 750.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Hel_MagazineLoading_AdminCase_SLOT2",
+            "m_LocalPosition": [
+                3540.10595703125,
+                148.39610290527345,
+                3720.02294921875
+            ],
+            "m_LocalRotation": [
+                0.0,
+                -90.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 99999.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Hel_MagazineLoading_BlueCase_SLOT2",
+            "m_LocalPosition": [
+                3540.105712890625,
+                148.3905029296875,
+                3720.021240234375
+            ],
+            "m_LocalRotation": [
+                0.0,
+                -90.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 750.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Hel_MagazineLoading_RedCase_SLOT3",
+            "m_LocalPosition": [
+                3540.105224609375,
+                148.39674377441407,
+                3720.023681640625
+            ],
+            "m_LocalRotation": [
+                0.0,
+                -90.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 750.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Hel_MagazineLoading_YellowCase_SLOT3",
+            "m_LocalPosition": [
+                3540.107177734375,
+                148.38734436035157,
+                3720.020751953125
+            ],
+            "m_LocalRotation": [
+                0.0,
+                -90.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 750.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Ammo_9x19",
+            "m_LocalPosition": [
+                6538.9287109375,
+                142.85179138183595,
+                6189.9443359375
+            ],
+            "m_LocalRotation": [
+                40.93631362915039,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 22.848838806152345,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        }
+    ]
+}

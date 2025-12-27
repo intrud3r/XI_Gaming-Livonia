@@ -1,0 +1,26 @@
+{
+    "m_IsLocalPosition": 0,
+    "m_Items": [
+        {
+            "m_Classname": "Matchbox",
+            "m_LocalPosition": [
+                7476.005859375,
+                121.39398193359375,
+                6327.19189453125
+            ],
+            "m_LocalRotation": [
+                161.36111450195313,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 42.81666564941406,
+                "m_Quantity": 33.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        }
+    ]
+}

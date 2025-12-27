@@ -1,0 +1,701 @@
+{
+    "m_Version": 3,
+    "Enabled": 1,
+    "Weight": 11.0,
+    "MissionMaxTime": 2100,
+    "MissionName": "Medical_Livonia_Airfield",
+    "Difficulty": 0,
+    "Objective": 0,
+    "Reward": "",
+    "ShowNotification": 1,
+    "Height": 750.0,
+    "DropZoneHeight": 750.0,
+    "Speed": 25.0,
+    "DropZoneSpeed": 25.0,
+    "Container": "ExpansionAirdropContainer_Medical",
+    "FallSpeed": 0.0,
+    "DropLocation": {
+        "x": 3825.0,
+        "z": 10150.0,
+        "Name": "Livonia Airfield",
+        "Radius": 100.0
+    },
+    "Infected": [
+        "ZmbM_HermitSkinny_Base",
+        "ZmbM_HermitSkinny_Beige",
+        "ZmbM_HermitSkinny_Black",
+        "ZmbM_HermitSkinny_Green",
+        "ZmbM_HermitSkinny_Red",
+        "ZmbM_FarmerFat_Base",
+        "ZmbM_FarmerFat_Beige",
+        "ZmbM_FarmerFat_Blue",
+        "ZmbM_FarmerFat_Brown",
+        "ZmbM_FarmerFat_Green",
+        "ZmbF_CitizenANormal_Base",
+        "ZmbF_CitizenANormal_Beige",
+        "ZmbF_CitizenANormal_Brown",
+        "ZmbF_CitizenANormal_Blue",
+        "ZmbF_CitizenANormal_Brown",
+        "ZmbF_CitizenANormal_Grey",
+        "ZmbF_CitizenANormal_Red",
+        "ZmbM_CitizenBFat_Blue",
+        "ZmbM_CitizenBFat_Red",
+        "ZmbM_CitizenBFat_Green",
+        "ZmbF_CitizenBSkinny",
+        "ZmbM_FishermanOld_Blue",
+        "ZmbM_FishermanOld_Green",
+        "ZmbM_FishermanOld_Grey",
+        "ZmbM_FishermanOld_Red",
+        "ZmbM_JournalistSkinny",
+        "ZmbF_JournalistNormal_Blue",
+        "ZmbF_JournalistNormal_Green",
+        "ZmbF_JournalistNormal_Red",
+        "ZmbF_JournalistNormal_White",
+        "ZmbM_HiderSkinny_Blue",
+        "ZmbM_HiderSkinny_Green",
+        "ZmbM_HiderSkinny_Yellow",
+        "ZmbF_HiderSkinny_Blue",
+        "ZmbF_HiderSkinny_Grey",
+        "ZmbF_HiderSkinny_Green",
+        "ZmbF_HiderSkinny_Red",
+        "ZmbF_SurvivorNormal_Blue",
+        "ZmbF_SurvivorNormal_Orange",
+        "ZmbF_SurvivorNormal_Red",
+        "ZmbF_SurvivorNormal_White",
+        "ZmbM_CommercialPilotOld_Blue",
+        "ZmbM_CommercialPilotOld_Olive",
+        "ZmbM_CommercialPilotOld_Brown",
+        "ZmbM_CommercialPilotOld_Grey",
+        "ZmbM_JoggerSkinny_Blue",
+        "ZmbM_JoggerSkinny_Green",
+        "ZmbM_JoggerSkinny_Red",
+        "ZmbF_JoggerSkinny_Blue",
+        "ZmbF_JoggerSkinny_Brown",
+        "ZmbF_JoggerSkinny_Green",
+        "ZmbF_JoggerSkinny_Red",
+        "ZmbM_MotorBikerFat_Beige",
+        "ZmbM_MotorBikerFat_Black",
+        "ZmbM_MotorBikerFat_Blue",
+        "ZmbM_VillagerOld_Blue",
+        "ZmbM_VillagerOld_Green",
+        "ZmbM_VillagerOld_White",
+        "ZmbM_SkaterYoung_Blue",
+        "ZmbM_SkaterYoung_Brown",
+        "ZmbM_SkaterYoung_Green",
+        "ZmbM_SkaterYoung_Grey",
+        "ZmbF_SkaterYoung_Brown",
+        "ZmbF_SkaterYoung_Striped",
+        "ZmbF_SkaterYoung_Violet",
+        "ZmbM_OffshoreWorker_Green",
+        "ZmbM_OffshoreWorker_Orange",
+        "ZmbM_OffshoreWorker_Red",
+        "ZmbM_OffshoreWorker_Yellow",
+        "ZmbM_Jacket_beige",
+        "ZmbM_Jacket_black",
+        "ZmbM_Jacket_blue",
+        "ZmbM_Jacket_bluechecks",
+        "ZmbM_Jacket_brown",
+        "ZmbM_Jacket_green",
+        "ZmbM_Jacket_khaki",
+        "ZmbM_Jacket_magenta",
+        "ZmbM_Jacket_stripes",
+        "ZmbF_ShortSkirt_beige",
+        "ZmbF_ShortSkirt_black",
+        "ZmbF_ShortSkirt_brown",
+        "ZmbF_ShortSkirt_green",
+        "ZmbF_ShortSkirt_grey",
+        "ZmbF_ShortSkirt_checks",
+        "ZmbF_ShortSkirt_red",
+        "ZmbF_ShortSkirt_stripes",
+        "ZmbF_ShortSkirt_white",
+        "ZmbF_ShortSkirt_yellow",
+        "ZmbF_VillagerOld_Blue",
+        "ZmbF_VillagerOld_Green",
+        "ZmbF_VillagerOld_Red",
+        "ZmbF_VillagerOld_White",
+        "ZmbF_MilkMaidOld_Beige",
+        "ZmbF_MilkMaidOld_Black",
+        "ZmbF_MilkMaidOld_Green",
+        "ZmbF_MilkMaidOld_Grey",
+        "ZmbF_DoctorSkinny",
+        "ZmbF_NurseFat",
+        "ZmbM_DoctorFat",
+        "ZmbF_PatientOld",
+        "ZmbM_PatientSkinny"
+    ],
+    "ItemCount": 25,
+    "InfectedCount": 15,
+    "AirdropPlaneClassName": "",
+    "Loot": [
+        {
+            "Name": "BandageDressing",
+            "Chance": 0.03750000149011612,
+            "Attachments": [],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "Morphine",
+            "Chance": 0.02500000037252903,
+            "Attachments": [],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "Epinephrine",
+            "Chance": 0.02500000037252903,
+            "Attachments": [],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "TacticalBaconCan",
+            "Chance": 0.012500000186264515,
+            "Attachments": [],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "PainkillerTablets",
+            "Chance": 0.02500000037252903,
+            "Attachments": [],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "CharcoalTablets",
+            "Chance": 0.02500000037252903,
+            "Attachments": [],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "TetracyclineAntiBiotics",
+            "Chance": 0.02500000037252903,
+            "Attachments": [],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "DisinfectantSpray",
+            "Chance": 0.019999999552965165,
+            "Attachments": [],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "DisinfectantAlcohol",
+            "Chance": 0.02500000037252903,
+            "Attachments": [],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "VitaminBottle",
+            "Chance": 0.05000000074505806,
+            "Attachments": [],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "StartKitIV",
+            "Chance": 0.07500000298023224,
+            "Attachments": [],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "SalineBagIV",
+            "Chance": 0.02500000037252903,
+            "Attachments": [],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "SalineBag",
+            "Chance": 0.02500000037252903,
+            "Attachments": [],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "BloodBagEmpty",
+            "Chance": 0.03750000149011612,
+            "Attachments": [],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "BloodBagIV",
+            "Chance": 0.02500000037252903,
+            "Attachments": [],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "BloodTestKit",
+            "Chance": 0.05000000074505806,
+            "Attachments": [],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "BloodTestKit",
+            "Chance": 0.05000000074505806,
+            "Attachments": [],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "MedicalScrubsHat_Blue",
+            "Chance": 0.019999999552965165,
+            "Attachments": [],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "MedicalScrubsHat_White",
+            "Chance": 0.019999999552965165,
+            "Attachments": [],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "MedicalScrubsHat_Green",
+            "Chance": 0.019999999552965165,
+            "Attachments": [],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "MedicalScrubsPants_Blue",
+            "Chance": 0.019999999552965165,
+            "Attachments": [],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "MedicalScrubsPants_White",
+            "Chance": 0.019999999552965165,
+            "Attachments": [],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "MedicalScrubsPants_Green",
+            "Chance": 0.019999999552965165,
+            "Attachments": [],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "MedicalScrubsShirt_Blue",
+            "Chance": 0.019999999552965165,
+            "Attachments": [],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "MedicalScrubsShirt_White",
+            "Chance": 0.019999999552965165,
+            "Attachments": [],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "MedicalScrubsShirt_Green",
+            "Chance": 0.019999999552965165,
+            "Attachments": [],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "NioshFaceMask",
+            "Chance": 0.019999999552965165,
+            "Attachments": [],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "SurgicalGloves_Blue",
+            "Chance": 0.019999999552965165,
+            "Attachments": [],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "SurgicalGloves_LightBlue",
+            "Chance": 0.019999999552965165,
+            "Attachments": [],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "SurgicalGloves_Green",
+            "Chance": 0.019999999552965165,
+            "Attachments": [],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "FirstAidKit",
+            "Chance": 0.04500000178813934,
+            "Attachments": [
+                {
+                    "Name": "BandageDressing",
+                    "Chance": 1.0,
+                    "Attachments": []
+                },
+                {
+                    "Name": "BandageDressing",
+                    "Chance": 1.0,
+                    "Attachments": []
+                }
+            ],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "FirstAidKit",
+            "Chance": 0.02500000037252903,
+            "Attachments": [
+                {
+                    "Name": "BandageDressing",
+                    "Chance": 1.0,
+                    "Attachments": []
+                },
+                {
+                    "Name": "BandageDressing",
+                    "Chance": 1.0,
+                    "Attachments": []
+                },
+                {
+                    "Name": "BandageDressing",
+                    "Chance": 1.0,
+                    "Attachments": []
+                },
+                {
+                    "Name": "BandageDressing",
+                    "Chance": 1.0,
+                    "Attachments": []
+                },
+                {
+                    "Name": "BandageDressing",
+                    "Chance": 1.0,
+                    "Attachments": []
+                },
+                {
+                    "Name": "BandageDressing",
+                    "Chance": 1.0,
+                    "Attachments": []
+                }
+            ],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "FirstAidKit",
+            "Chance": 0.04500000178813934,
+            "Attachments": [
+                {
+                    "Name": "Morphine",
+                    "Chance": 1.0,
+                    "Attachments": []
+                },
+                {
+                    "Name": "BandageDressing",
+                    "Chance": 1.0,
+                    "Attachments": []
+                }
+            ],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "FirstAidKit",
+            "Chance": 0.04500000178813934,
+            "Attachments": [
+                {
+                    "Name": "BandageDressing",
+                    "Chance": 1.0,
+                    "Attachments": []
+                },
+                {
+                    "Name": "SalineBagIV",
+                    "Chance": 1.0,
+                    "Attachments": []
+                }
+            ],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "FirstAidKit",
+            "Chance": 0.04500000178813934,
+            "Attachments": [
+                {
+                    "Name": "PainkillerTablets",
+                    "Chance": 1.0,
+                    "Attachments": []
+                },
+                {
+                    "Name": "DisinfectantAlcohol",
+                    "Chance": 1.0,
+                    "Attachments": []
+                }
+            ],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "FirstAidKit",
+            "Chance": 0.04500000178813934,
+            "Attachments": [
+                {
+                    "Name": "CharcoalTablets",
+                    "Chance": 1.0,
+                    "Attachments": []
+                },
+                {
+                    "Name": "Morphine",
+                    "Chance": 1.0,
+                    "Attachments": []
+                }
+            ],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "FirstAidKit",
+            "Chance": 0.04500000178813934,
+            "Attachments": [
+                {
+                    "Name": "Epinephrine",
+                    "Chance": 1.0,
+                    "Attachments": []
+                },
+                {
+                    "Name": "StartKitIV",
+                    "Chance": 1.0,
+                    "Attachments": []
+                }
+            ],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "FirstAidKit",
+            "Chance": 0.04500000178813934,
+            "Attachments": [
+                {
+                    "Name": "TetracyclineAntiBiotics",
+                    "Chance": 1.0,
+                    "Attachments": []
+                },
+                {
+                    "Name": "VitaminBottle",
+                    "Chance": 1.0,
+                    "Attachments": []
+                }
+            ],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "FirstAidKit",
+            "Chance": 0.04500000178813934,
+            "Attachments": [
+                {
+                    "Name": "Morphine",
+                    "Chance": 1.0,
+                    "Attachments": []
+                },
+                {
+                    "Name": "SalineBagIV",
+                    "Chance": 1.0,
+                    "Attachments": []
+                }
+            ],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "FirstAidKit",
+            "Chance": 0.04500000178813934,
+            "Attachments": [
+                {
+                    "Name": "PainkillerTablets",
+                    "Chance": 1.0,
+                    "Attachments": []
+                },
+                {
+                    "Name": "Epinephrine",
+                    "Chance": 1.0,
+                    "Attachments": []
+                }
+            ],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "FirstAidKit",
+            "Chance": 0.04500000178813934,
+            "Attachments": [
+                {
+                    "Name": "TetracyclineAntiBiotics",
+                    "Chance": 1.0,
+                    "Attachments": []
+                },
+                {
+                    "Name": "Morphine",
+                    "Chance": 1.0,
+                    "Attachments": []
+                }
+            ],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "FirstAidKit",
+            "Chance": 0.04500000178813934,
+            "Attachments": [
+                {
+                    "Name": "VitaminBottle",
+                    "Chance": 1.0,
+                    "Attachments": []
+                },
+                {
+                    "Name": "SurgicalGloves_Blue",
+                    "Chance": 1.0,
+                    "Attachments": []
+                }
+            ],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "FirstAidKit",
+            "Chance": 0.04500000178813934,
+            "Attachments": [
+                {
+                    "Name": "BandageDressing",
+                    "Chance": 1.0,
+                    "Attachments": []
+                },
+                {
+                    "Name": "VitaminBottle",
+                    "Chance": 1.0,
+                    "Attachments": []
+                }
+            ],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "FirstAidKit",
+            "Chance": 0.04500000178813934,
+            "Attachments": [
+                {
+                    "Name": "CharcoalTablets",
+                    "Chance": 1.0,
+                    "Attachments": []
+                },
+                {
+                    "Name": "DisinfectantAlcohol",
+                    "Chance": 1.0,
+                    "Attachments": []
+                }
+            ],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        }
+    ]
+}

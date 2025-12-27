@@ -1,0 +1,14 @@
+{
+    "ChickenCoopItems": [
+        "rag_egg",
+        "rag_gingerbread",
+        "rag_chocolate_bunny"
+    ],
+    "ChickenFeathers": [
+        "ChickenFeather"
+    ],
+    "ChanceToGetItems": 10,
+    "ChanceToGetFeathers": 2,
+    "ChanceToSpawnCrazyChicken": 1,
+    "GetFeatherQuantity": 2.0
+}

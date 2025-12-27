@@ -1,0 +1,173 @@
+{
+    "m_IsLocalPosition": 0,
+    "m_Items": [
+        {
+            "m_Classname": "Ammo_Expansion_46x30",
+            "m_LocalPosition": [
+                835.8057250976563,
+                531.916259765625,
+                1220.1280517578126
+            ],
+            "m_LocalRotation": [
+                39.8376350402832,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 88.43714904785156,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Ammo_Expansion_46x30",
+            "m_LocalPosition": [
+                844.9539184570313,
+                531.9562377929688,
+                1191.44580078125
+            ],
+            "m_LocalRotation": [
+                -78.84028625488281,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 60.5835075378418,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Ammo_Expansion_46x30",
+            "m_LocalPosition": [
+                733.3749389648438,
+                531.5612182617188,
+                1232.1964111328126
+            ],
+            "m_LocalRotation": [
+                122.45735168457031,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 85.80767059326172,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Ammo_Expansion_46x30",
+            "m_LocalPosition": [
+                614.8433227539063,
+                547.8086547851563,
+                1149.7515869140626
+            ],
+            "m_LocalRotation": [
+                -174.0177459716797,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 74.79537200927735,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Mp133Shotgun",
+            "m_LocalPosition": [
+                736.7844848632813,
+                531.4468383789063,
+                1232.4576416015626
+            ],
+            "m_LocalRotation": [
+                0.0,
+                89.96572875976563,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 179.07553100585938,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Ammo_Expansion_46x30",
+            "m_LocalPosition": [
+                820.224609375,
+                531.4097290039063,
+                1193.02783203125
+            ],
+            "m_LocalRotation": [
+                31.35593605041504,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 65.01602172851563,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Ammo_Expansion_46x30",
+            "m_LocalPosition": [
+                690.9865112304688,
+                532.3827514648438,
+                1186.0950927734376
+            ],
+            "m_LocalRotation": [
+                132.01573181152345,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 95.9300537109375,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Ammo_Expansion_46x30",
+            "m_LocalPosition": [
+                631.1939697265625,
+                532.3724975585938,
+                1152.14794921875
+            ],
+            "m_LocalRotation": [
+                -166.9313507080078,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 99.937744140625,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        }
+    ]
+}

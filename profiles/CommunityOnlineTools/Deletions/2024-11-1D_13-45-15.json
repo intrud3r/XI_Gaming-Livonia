@@ -1,0 +1,47 @@
+{
+    "m_IsLocalPosition": 0,
+    "m_Items": [
+        {
+            "m_Classname": "GPSReceiver",
+            "m_LocalPosition": [
+                452.56805419921877,
+                255.857666015625,
+                702.9060668945313
+            ],
+            "m_LocalRotation": [
+                45.00435256958008,
+                80.84371185302735,
+                -37.082557678222659
+            ],
+            "m_Data": {
+                "m_Health": 50.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "AliceBag_Camo",
+            "m_LocalPosition": [
+                453.73687744140627,
+                255.93756103515626,
+                703.1256713867188
+            ],
+            "m_LocalRotation": [
+                -134.9917755126953,
+                -80.84136962890625,
+                117.46257781982422
+            ],
+            "m_Data": {
+                "m_Health": 0.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        }
+    ]
+}

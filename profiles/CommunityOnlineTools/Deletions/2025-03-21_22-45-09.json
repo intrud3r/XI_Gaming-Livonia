@@ -1,0 +1,26 @@
+{
+    "m_IsLocalPosition": 0,
+    "m_Items": [
+        {
+            "m_Classname": "Deadfall_Creatures_Wraith_3",
+            "m_LocalPosition": [
+                441.5767517089844,
+                259.1000061035156,
+                503.0451965332031
+            ],
+            "m_LocalRotation": [
+                64.40806579589844,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 618.9779052734375,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 36
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        }
+    ]
+}

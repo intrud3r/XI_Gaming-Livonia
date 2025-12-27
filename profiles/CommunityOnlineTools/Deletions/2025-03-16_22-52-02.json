@@ -1,0 +1,26 @@
+{
+    "m_IsLocalPosition": 0,
+    "m_Items": [
+        {
+            "m_Classname": "Fireplace",
+            "m_LocalPosition": [
+                2959.561767578125,
+                211.11964416503907,
+                491.7861328125
+            ],
+            "m_LocalRotation": [
+                -59.66856384277344,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 100.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 9
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        }
+    ]
+}

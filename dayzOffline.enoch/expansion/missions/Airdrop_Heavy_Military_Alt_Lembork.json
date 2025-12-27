@@ -1,0 +1,1579 @@
+{
+    "m_Version": 3,
+    "Enabled": 1,
+    "Weight": 50.0,
+    "MissionMaxTime": 2100,
+    "MissionName": "Heavy_Military_Lembork",
+    "Difficulty": 0,
+    "Objective": 0,
+    "Reward": "",
+    "ShowNotification": 1,
+    "Height": 750.0,
+    "DropZoneHeight": 750.0,
+    "Speed": 25.0,
+    "DropZoneSpeed": 25.0,
+    "Container": "ExpansionAirdropContainer_Military",
+    "FallSpeed": 0.0,
+    "DropLocation": {
+        "x": 8700.0,
+        "z": 6800.0,
+        "Name": "Lembork",
+        "Radius": 100.0
+    },
+    "Infected": [
+        "ZmbM_usSoldier_normal_Woodland",
+        "ZmbM_SoldierNormal",
+        "ZmbM_usSoldier_normal_Desert",
+        "ZmbM_PatrolNormal_PaulRev",
+        "ZmbM_PatrolNormal_Autumn",
+        "ZmbM_PatrolNormal_Flat",
+        "ZmbM_PatrolNormal_Summer"
+    ],
+    "ItemCount": 50,
+    "InfectedCount": 50,
+    "AirdropPlaneClassName": "",
+    "Loot": [
+        {
+            "Name": "Barret_Green",
+            "Chance": 0.012000000104308129,
+            "Attachments": [
+                {
+                    "Name": "Barret_Magazine",
+                    "Chance": 1.0,
+                    "Attachments": []
+                },
+                {
+                    "Name": "AD_NFATACR",
+                    "Chance": 1.0,
+                    "Attachments": []
+                }
+            ],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "Barret_Green",
+            "Chance": 0.012000000104308129,
+            "Attachments": [],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "Barret_Tan",
+            "Chance": 0.013500000350177288,
+            "Attachments": [
+                {
+                    "Name": "Barret_Magazine",
+                    "Chance": 1.0,
+                    "Attachments": []
+                },
+                {
+                    "Name": "AD_NFATACR",
+                    "Chance": 1.0,
+                    "Attachments": []
+                }
+            ],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "Barret_Tan",
+            "Chance": 0.013500000350177288,
+            "Attachments": [],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "M200",
+            "Chance": 0.011500000022351742,
+            "Attachments": [
+                {
+                    "Name": "m200_Magazine",
+                    "Chance": 1.0,
+                    "Attachments": []
+                }
+            ],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "SA58",
+            "Chance": 0.012500000186264515,
+            "Attachments": [
+                {
+                    "Name": "SA58_Magazine",
+                    "Chance": 1.0,
+                    "Attachments": []
+                }
+            ],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "SA58",
+            "Chance": 0.012000000104308129,
+            "Attachments": [
+                {
+                    "Name": "SA58_Drum_Magazine",
+                    "Chance": 1.0,
+                    "Attachments": []
+                }
+            ],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "SR25_Black",
+            "Chance": 0.02500000037252903,
+            "Attachments": [
+                {
+                    "Name": "SR25_Magazine",
+                    "Chance": 1.0,
+                    "Attachments": []
+                },
+                {
+                    "Name": "SR25_Suppressor",
+                    "Chance": 1.0,
+                    "Attachments": []
+                },
+                {
+                    "Name": "HoloSight",
+                    "Chance": 1.0,
+                    "Attachments": []
+                }
+            ],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "SR25_Green",
+            "Chance": 0.029999999329447748,
+            "Attachments": [
+                {
+                    "Name": "SR25_Magazine",
+                    "Chance": 1.0,
+                    "Attachments": []
+                },
+                {
+                    "Name": "SR25_Suppressor",
+                    "Chance": 1.0,
+                    "Attachments": []
+                },
+                {
+                    "Name": "HoloSight",
+                    "Chance": 1.0,
+                    "Attachments": []
+                }
+            ],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "SR25_Tan",
+            "Chance": 0.02500000037252903,
+            "Attachments": [
+                {
+                    "Name": "SR25_Magazine",
+                    "Chance": 1.0,
+                    "Attachments": []
+                },
+                {
+                    "Name": "SR25_Suppressor",
+                    "Chance": 1.0,
+                    "Attachments": []
+                },
+                {
+                    "Name": "HoloSight",
+                    "Chance": 1.0,
+                    "Attachments": []
+                }
+            ],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "Thompson",
+            "Chance": 0.026000000536441804,
+            "Attachments": [
+                {
+                    "Name": "Thompson_DrumMag",
+                    "Chance": 1.0,
+                    "Attachments": []
+                },
+                {
+                    "Name": "HoloSight",
+                    "Chance": 1.0,
+                    "Attachments": []
+                }
+            ],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "Thompson",
+            "Chance": 0.026000000536441804,
+            "Attachments": [
+                {
+                    "Name": "Thompson_StickMag",
+                    "Chance": 1.0,
+                    "Attachments": []
+                },
+                {
+                    "Name": "HoloSight",
+                    "Chance": 1.0,
+                    "Attachments": []
+                }
+            ],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "Asval",
+            "Chance": 0.027000000700354577,
+            "Attachments": [
+                {
+                    "Name": "Asval_Magazine_Extended",
+                    "Chance": 1.0,
+                    "Attachments": []
+                },
+                {
+                    "Name": "ASVALRail",
+                    "Chance": 1.0,
+                    "Attachments": []
+                }
+            ],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "Asval",
+            "Chance": 0.027000000700354577,
+            "Attachments": [
+                {
+                    "Name": "Asval_Magazine_Dual",
+                    "Chance": 1.0,
+                    "Attachments": []
+                },
+                {
+                    "Name": "ASVALRail",
+                    "Chance": 1.0,
+                    "Attachments": []
+                }
+            ],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "Asval",
+            "Chance": 0.027000000700354577,
+            "Attachments": [],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "BigDeag",
+            "Chance": 0.026000000536441804,
+            "Attachments": [
+                {
+                    "Name": "BigDeag_Magazine",
+                    "Chance": 1.0,
+                    "Attachments": []
+                }
+            ],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "BigDeag",
+            "Chance": 0.026000000536441804,
+            "Attachments": [],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "KDMR_Camo",
+            "Chance": 0.014000000432133675,
+            "Attachments": [
+                {
+                    "Name": "KDMR_Magazine",
+                    "Chance": 1.0,
+                    "Attachments": []
+                }
+            ],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "KDMR_Camo",
+            "Chance": 0.014000000432133675,
+            "Attachments": [],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "Expansion_M16",
+            "Chance": 0.013000000268220902,
+            "Attachments": [
+                {
+                    "Name": "UniversalLight",
+                    "Chance": 1.0,
+                    "Attachments": []
+                }
+            ],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "Expansion_M16",
+            "Chance": 0.017999999225139619,
+            "Attachments": [],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "RPK16_Green",
+            "Chance": 0.014000000432133675,
+            "Attachments": [
+                {
+                    "Name": "RPK16_DrumMagazine",
+                    "Chance": 1.0,
+                    "Attachments": []
+                }
+            ],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "RPK16_Tan",
+            "Chance": 0.014000000432133675,
+            "Attachments": [
+                {
+                    "Name": "RPK16_DrumMagazine",
+                    "Chance": 1.0,
+                    "Attachments": []
+                }
+            ],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "RPK16_Black",
+            "Chance": 0.014000000432133675,
+            "Attachments": [
+                {
+                    "Name": "RPK16_DrumMagazine",
+                    "Chance": 1.0,
+                    "Attachments": []
+                }
+            ],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "R700",
+            "Chance": 0.01899999938905239,
+            "Attachments": [
+                {
+                    "Name": "R700_Magazine",
+                    "Chance": 1.0,
+                    "Attachments": []
+                }
+            ],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "OPSKS_Gray",
+            "Chance": 0.014000000432133675,
+            "Attachments": [
+                {
+                    "Name": "OPSKS_Magazine",
+                    "Chance": 1.0,
+                    "Attachments": []
+                }
+            ],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "SA58",
+            "Chance": 0.017999999225139619,
+            "Attachments": [
+                {
+                    "Name": "SA58_Drum_Magazine",
+                    "Chance": 1.0,
+                    "Attachments": []
+                }
+            ],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "SA58",
+            "Chance": 0.017999999225139619,
+            "Attachments": [
+                {
+                    "Name": "SA58_Magazine",
+                    "Chance": 1.0,
+                    "Attachments": []
+                }
+            ],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "MCRCARB_Black",
+            "Chance": 0.012000000104308129,
+            "Attachments": [],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "MCRCARB_Tan",
+            "Chance": 0.012000000104308129,
+            "Attachments": [],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "TX15_Black",
+            "Chance": 0.009999999776482582,
+            "Attachments": [],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "HKE1_Black",
+            "Chance": 0.017999999225139619,
+            "Attachments": [],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "Ammo_new_46x30",
+            "Chance": 0.09000000357627869,
+            "Attachments": [],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "AmmoBox_new_46x30",
+            "Chance": 0.09000000357627869,
+            "Attachments": [],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "Saiga",
+            "Chance": 0.012000000104308129,
+            "Attachments": [
+                {
+                    "Name": "Saiga_Bttstck",
+                    "Chance": 1.0,
+                    "Attachments": []
+                },
+                {
+                    "Name": "Mag_Saiga_Drum20Rnd",
+                    "Chance": 1.0,
+                    "Attachments": []
+                }
+            ],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "Expansion_BenelliM4",
+            "Chance": 0.009999999776482582,
+            "Attachments": [],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "Expansion_G36",
+            "Chance": 0.009999999776482582,
+            "Attachments": [
+                {
+                    "Name": "Mag_Expansion_G36_30Rnd",
+                    "Chance": 1.0,
+                    "Attachments": []
+                }
+            ],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "M14_EFT",
+            "Chance": 0.014999999664723874,
+            "Attachments": [
+                {
+                    "Name": "M14_Magazine_Extended",
+                    "Chance": 1.0,
+                    "Attachments": []
+                },
+                {
+                    "Name": "M14Rail",
+                    "Chance": 1.0,
+                    "Attachments": []
+                }
+            ],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "Expansion_M79",
+            "Chance": 0.009999999776482582,
+            "Attachments": [],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "ExpansionRPG7",
+            "Chance": 0.009999999776482582,
+            "Attachments": [],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "Bipod_Black",
+            "Chance": 0.029999999329447748,
+            "Attachments": [],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "KDMR_Magazine",
+            "Chance": 0.009999999776482582,
+            "Attachments": [],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "AK_Bayonet",
+            "Chance": 0.009999999776482582,
+            "Attachments": [],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "KobraOptic",
+            "Chance": 0.00800000037997961,
+            "Attachments": [],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "Steel_20rnd_Magazine",
+            "Chance": 0.009999999776482582,
+            "Attachments": [],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "Steel_10rnd_Magazine",
+            "Chance": 0.009999999776482582,
+            "Attachments": [],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "UniversalLight",
+            "Chance": 0.00800000037997961,
+            "Attachments": [
+                {
+                    "Name": "Battery9V",
+                    "Chance": 1.0,
+                    "Attachments": []
+                }
+            ],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "ACOGOptic",
+            "Chance": 0.00800000037997961,
+            "Attachments": [],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "Ammo_12gaPellets",
+            "Chance": 0.009999999776482582,
+            "Attachments": [],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "Ammo_new_12gaExpressBuckshot6",
+            "Chance": 0.009999999776482582,
+            "Attachments": [],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "Ammo_new_12ga2Sabot",
+            "Chance": 0.009999999776482582,
+            "Attachments": [],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "PUScopeOptic",
+            "Chance": 0.009999999776482582,
+            "Attachments": [],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "TLRLight",
+            "Chance": 0.009999999776482582,
+            "Attachments": [],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "TLRLight",
+            "Chance": 0.00800000037997961,
+            "Attachments": [
+                {
+                    "Name": "Battery9V",
+                    "Chance": 1.0,
+                    "Attachments": []
+                }
+            ],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "SKS_Bayonet",
+            "Chance": 0.009999999776482582,
+            "Attachments": [],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "M68Optic",
+            "Chance": 0.009999999776482582,
+            "Attachments": [],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "M4_T3NRDSOptic",
+            "Chance": 0.009999999776482582,
+            "Attachments": [],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "FNP45_MRDSOptic",
+            "Chance": 0.009999999776482582,
+            "Attachments": [],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "ExpansionReflexMRSOptic",
+            "Chance": 0.009999999776482582,
+            "Attachments": [],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "PSO1Optic",
+            "Chance": 0.009999999776482582,
+            "Attachments": [],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "SR25_Magazine",
+            "Chance": 0.009999999776482582,
+            "Attachments": [],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "SR25_Magazine",
+            "Chance": 0.07999999821186066,
+            "Attachments": [],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "AD_OKP7_MosinMount",
+            "Chance": 0.009999999776482582,
+            "Attachments": [],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "AD_OKP7",
+            "Chance": 0.009999999776482582,
+            "Attachments": [],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "M68Optic",
+            "Chance": 0.00800000037997961,
+            "Attachments": [
+                {
+                    "Name": "Battery9V",
+                    "Chance": 1.0,
+                    "Attachments": []
+                }
+            ],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "M4_T3NRDSOptic",
+            "Chance": 0.00800000037997961,
+            "Attachments": [
+                {
+                    "Name": "Battery9V",
+                    "Chance": 1.0,
+                    "Attachments": []
+                }
+            ],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "ExpansionReflexMRSOptic",
+            "Chance": 0.00800000037997961,
+            "Attachments": [
+                {
+                    "Name": "Battery9V",
+                    "Chance": 1.0,
+                    "Attachments": []
+                }
+            ],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "PSO1Optic",
+            "Chance": 0.00800000037997961,
+            "Attachments": [
+                {
+                    "Name": "Battery9V",
+                    "Chance": 1.0,
+                    "Attachments": []
+                }
+            ],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "PSO11Optic",
+            "Chance": 0.00800000037997961,
+            "Attachments": [
+                {
+                    "Name": "Battery9V",
+                    "Chance": 1.0,
+                    "Attachments": []
+                }
+            ],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "RGD5Grenade",
+            "Chance": 0.00800000037997961,
+            "Attachments": [],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "M67Grenade",
+            "Chance": 0.004999999888241291,
+            "Attachments": [],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "M18SmokeGrenade_Red",
+            "Chance": 0.009999999776482582,
+            "Attachments": [],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "M18SmokeGrenade_Green",
+            "Chance": 0.009999999776482582,
+            "Attachments": [],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "M18SmokeGrenade_Yellow",
+            "Chance": 0.009999999776482582,
+            "Attachments": [],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "M18SmokeGrenade_Purple",
+            "Chance": 0.009999999776482582,
+            "Attachments": [],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "M18SmokeGrenade_White",
+            "Chance": 0.009999999776482582,
+            "Attachments": [],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "RDG2SmokeGrenade_Black",
+            "Chance": 0.009999999776482582,
+            "Attachments": [],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "RDG2SmokeGrenade_White",
+            "Chance": 0.009999999776482582,
+            "Attachments": [],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "LandMineTrap",
+            "Chance": 0.009999999776482582,
+            "Attachments": [],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "Mag_AK101_30Rnd",
+            "Chance": 0.009999999776482582,
+            "Attachments": [],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "Mag_AK74_30Rnd",
+            "Chance": 0.009999999776482582,
+            "Attachments": [],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "Mag_AKM_30Rnd",
+            "Chance": 0.019999999552965165,
+            "Attachments": [],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "Mag_AKM_Drum75Rnd",
+            "Chance": 0.006000000052154064,
+            "Attachments": [],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "Mag_AKM_Palm30Rnd",
+            "Chance": 0.014999999664723874,
+            "Attachments": [],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "Mag_CMAG_20Rnd",
+            "Chance": 0.029999999329447748,
+            "Attachments": [],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "Mag_CMAG_30Rnd",
+            "Chance": 0.014999999664723874,
+            "Attachments": [],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "Mag_CMAG_40Rnd",
+            "Chance": 0.009999999776482582,
+            "Attachments": [],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "Mag_FAL_20Rnd",
+            "Chance": 0.009999999776482582,
+            "Attachments": [],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "Mag_STANAGCoupled_30Rnd",
+            "Chance": 0.00800000037997961,
+            "Attachments": [],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "Mag_STANAG_30Rnd",
+            "Chance": 0.009999999776482582,
+            "Attachments": [],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "Mag_SVD_10Rnd",
+            "Chance": 0.00800000037997961,
+            "Attachments": [],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "Mag_Saiga_5Rnd",
+            "Chance": 0.014999999664723874,
+            "Attachments": [],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "Mag_Saiga_8Rnd",
+            "Chance": 0.009999999776482582,
+            "Attachments": [],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "Mag_Saiga_Drum20Rnd",
+            "Chance": 0.00800000037997961,
+            "Attachments": [],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "AmmoBox_762x54Tracer_20Rnd",
+            "Chance": 0.00800000037997961,
+            "Attachments": [],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "AmmoBox_762x54_20Rnd",
+            "Chance": 0.009999999776482582,
+            "Attachments": [],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "AmmoBox_762x39Tracer_20Rnd",
+            "Chance": 0.006000000052154064,
+            "Attachments": [],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "AmmoBox_762x39_20Rnd",
+            "Chance": 0.008999999612569809,
+            "Attachments": [],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "AmmoBox_556x45Tracer_20Rnd",
+            "Chance": 0.004999999888241291,
+            "Attachments": [],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "AmmoBox_556x45_20Rnd",
+            "Chance": 0.00800000037997961,
+            "Attachments": [],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "AmmoBox_545x39Tracer_20Rnd",
+            "Chance": 0.006000000052154064,
+            "Attachments": [],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "AmmoBox_545x39_20Rnd",
+            "Chance": 0.00800000037997961,
+            "Attachments": [],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "Ammo_762x54Tracer",
+            "Chance": 0.00800000037997961,
+            "Attachments": [],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "Ammo_762x54",
+            "Chance": 0.009999999776482582,
+            "Attachments": [],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "Ammo_762x39Tracer",
+            "Chance": 0.009999999776482582,
+            "Attachments": [],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "Ammo_762x39",
+            "Chance": 0.012000000104308129,
+            "Attachments": [],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "Ammo_556x45Tracer",
+            "Chance": 0.007000000216066837,
+            "Attachments": [],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "Ammo_556x45",
+            "Chance": 0.010999999940395356,
+            "Attachments": [],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "Ammo_545x39Tracer",
+            "Chance": 0.007000000216066837,
+            "Attachments": [],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "Ammo_545x39",
+            "Chance": 0.009999999776482582,
+            "Attachments": [],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "Ammo_Expansion_M203_Smoke_White",
+            "Chance": 0.00800000037997961,
+            "Attachments": [],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "Ammo_Expansion_M203_Smoke_Red",
+            "Chance": 0.00800000037997961,
+            "Attachments": [],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "Ammo_Expansion_M203_Smoke_Green",
+            "Chance": 0.00800000037997961,
+            "Attachments": [],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "Ammo_Expansion_M203_Smoke_Yellow",
+            "Chance": 0.00800000037997961,
+            "Attachments": [],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "Ammo_Expansion_M203_Smoke_Purple",
+            "Chance": 0.00800000037997961,
+            "Attachments": [],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "Ammo_Expansion_M203_Smoke_Teargas",
+            "Chance": 0.004999999888241291,
+            "Attachments": [],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "Ammo_Expansion_M203_Sticky_Smoke_White",
+            "Chance": 0.004999999888241291,
+            "Attachments": [],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "Ammo_Expansion_M203_Sticky_Smoke_Red",
+            "Chance": 0.004999999888241291,
+            "Attachments": [],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "Ammo_Expansion_M203_Sticky_Smoke_Green",
+            "Chance": 0.004999999888241291,
+            "Attachments": [],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "Ammo_Expansion_M203_Sticky_Smoke_Yellow",
+            "Chance": 0.004999999888241291,
+            "Attachments": [],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "Ammo_Expansion_M203_Sticky_Smoke_Purple",
+            "Chance": 0.004999999888241291,
+            "Attachments": [],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "Ammo_Expansion_M203_Sticky_Smoke_Teargas",
+            "Chance": 0.0020000000949949028,
+            "Attachments": [],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "Ammo_Expansion_M203_HE",
+            "Chance": 0.07000000029802323,
+            "Attachments": [],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "ExpansionAmmoRPG",
+            "Chance": 0.004999999888241291,
+            "Attachments": [],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "UKAssVest_Black",
+            "Chance": 0.009999999776482582,
+            "Attachments": [],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "UKAssVest_Camo",
+            "Chance": 0.009999999776482582,
+            "Attachments": [],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "UKAssVest_Khaki",
+            "Chance": 0.009999999776482582,
+            "Attachments": [],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "UKAssVest_Olive",
+            "Chance": 0.009999999776482582,
+            "Attachments": [],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "HighCapacityVest_Black",
+            "Chance": 0.009999999776482582,
+            "Attachments": [],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "HighCapacityVest_Olive",
+            "Chance": 0.009999999776482582,
+            "Attachments": [],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "PlateCarrierVest",
+            "Chance": 0.00800000037997961,
+            "Attachments": [],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "PlateCarrierHolster",
+            "Chance": 0.009999999776482582,
+            "Attachments": [],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "PlateCarrierPouches",
+            "Chance": 0.009999999776482582,
+            "Attachments": [],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "PlateCarrierVest",
+            "Chance": 0.004999999888241291,
+            "Attachments": [
+                {
+                    "Name": "PlateCarrierHolster",
+                    "Chance": 1.0,
+                    "Attachments": []
+                },
+                {
+                    "Name": "PlateCarrierPouches",
+                    "Chance": 1.0,
+                    "Attachments": []
+                }
+            ],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "TacticalBaconCan",
+            "Chance": 0.009999999776482582,
+            "Attachments": [],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "Bear_Pink",
+            "Chance": 0.009999999776482582,
+            "Attachments": [],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "GhillieAtt_Mossy",
+            "Chance": 0.019999999552965165,
+            "Attachments": [],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "GhillieHood_Mossy",
+            "Chance": 0.009999999776482582,
+            "Attachments": [],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "GhillieBushrag_Mossy",
+            "Chance": 0.004999999888241291,
+            "Attachments": [],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "GhillieSuit_Mossy",
+            "Chance": 0.004999999888241291,
+            "Attachments": [],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "ExpansionSatchel",
+            "Chance": 0.0010000000474974514,
+            "Attachments": [],
+            "QuantityPercent": 0.0,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        }
+    ]
+}

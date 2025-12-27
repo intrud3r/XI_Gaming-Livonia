@@ -1,0 +1,18 @@
+{
+    "VehicleName": "RTrzr_Razzle",
+    "DisplayName": "",
+    "Parts": [
+        "RT_rzr_driver_door_razzle",
+        "RT_rzr_codriver_door_razzle",
+        "RT_rzr_hood_razzle",
+        "RT_rzr_wheel_razzle",
+        "RT_rzr_wheel_razzle",
+        "RT_rzr_wheel_razzle",
+        "RT_rzr_wheel_razzle",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "SparkPlug"
+    ]
+}

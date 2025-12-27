@@ -1,0 +1,163 @@
+{
+    "m_IsLocalPosition": 0,
+    "m_Items": [
+        {
+            "m_Classname": "ExpansionWall6x3",
+            "m_LocalPosition": [
+                5845.04931640625,
+                196.48406982421876,
+                5860.04833984375
+            ],
+            "m_LocalRotation": [
+                -84.18833923339844,
+                0.0,
+                0.0
+            ],
+            "m_Data": {
+                "m_Health": 30000.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [
+                "wood_doorframe",
+                "wood_doorfinished",
+                "wood_base"
+            ],
+            "m_Attachments": [
+                {
+                    "m_Classname": "ExpansionCodeLock",
+                    "m_Data": {
+                        "m_Health": 98.48062133789063,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        },
+        {
+            "m_Classname": "ExpansionWall6x3",
+            "m_LocalPosition": [
+                5883.07568359375,
+                184.04661560058595,
+                5885.4384765625
+            ],
+            "m_LocalRotation": [
+                62.21561050415039,
+                0.0,
+                0.0
+            ],
+            "m_Data": {
+                "m_Health": 30000.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [
+                "wood_windowfinished",
+                "wood_windowframe",
+                "wood_base"
+            ],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "ExpansionWall6x3",
+            "m_LocalPosition": [
+                5885.11962890625,
+                180.74276733398438,
+                5880.7685546875
+            ],
+            "m_LocalRotation": [
+                72.4347152709961,
+                0.0,
+                0.0
+            ],
+            "m_Data": {
+                "m_Health": 30000.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [
+                "wood_doorframe",
+                "wood_doorfinished",
+                "wood_base"
+            ],
+            "m_Attachments": [
+                {
+                    "m_Classname": "ExpansionCodeLock",
+                    "m_Data": {
+                        "m_Health": 100.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        },
+        {
+            "m_Classname": "ExpansionWall6x3",
+            "m_LocalPosition": [
+                5845.04931640625,
+                199.48683166503907,
+                5860.04833984375
+            ],
+            "m_LocalRotation": [
+                -84.19564819335938,
+                0.0,
+                0.0
+            ],
+            "m_Data": {
+                "m_Health": 30000.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [
+                "wood_wallfinished",
+                "wood_wallframe",
+                "wood_base"
+            ],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "TerritoryFlag",
+            "m_LocalPosition": [
+                5879.7470703125,
+                182.93173217773438,
+                5884.5029296875
+            ],
+            "m_LocalRotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [
+                "pole",
+                "support",
+                "base"
+            ],
+            "m_Attachments": [
+                {
+                    "m_Classname": "Flag_DayZ",
+                    "m_Data": {
+                        "m_Health": 100.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        }
+    ]
+}

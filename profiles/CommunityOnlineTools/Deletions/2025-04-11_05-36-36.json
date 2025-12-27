@@ -1,0 +1,1076 @@
+{
+    "m_IsLocalPosition": 0,
+    "m_Items": [
+        {
+            "m_Classname": "Heatpack",
+            "m_LocalPosition": [
+                7488.70947265625,
+                120.75382995605469,
+                6341.798828125
+            ],
+            "m_LocalRotation": [
+                -2.546185255050659,
+                89.9476547241211,
+                -114.24286651611328
+            ],
+            "m_Data": {
+                "m_Health": 30.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 25
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Heatpack",
+            "m_LocalPosition": [
+                7488.70947265625,
+                120.77713775634766,
+                6341.798828125
+            ],
+            "m_LocalRotation": [
+                -179.05502319335938,
+                -89.9476547241211,
+                -69.24591064453125
+            ],
+            "m_Data": {
+                "m_Health": 30.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 25
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Heatpack",
+            "m_LocalPosition": [
+                7488.70947265625,
+                120.75382995605469,
+                6341.798828125
+            ],
+            "m_LocalRotation": [
+                -2.546185255050659,
+                89.9476547241211,
+                -114.24286651611328
+            ],
+            "m_Data": {
+                "m_Health": 30.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 25
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Heatpack",
+            "m_LocalPosition": [
+                7488.70947265625,
+                120.77713775634766,
+                6341.798828125
+            ],
+            "m_LocalRotation": [
+                -179.05502319335938,
+                -89.9476547241211,
+                -69.24591064453125
+            ],
+            "m_Data": {
+                "m_Health": 30.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 25
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "HuntingKnife",
+            "m_LocalPosition": [
+                7488.7841796875,
+                120.76693725585938,
+                6341.76904296875
+            ],
+            "m_LocalRotation": [
+                -2.546185255050659,
+                89.9476547241211,
+                -114.24286651611328
+            ],
+            "m_Data": {
+                "m_Health": 127.77828979492188,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Mag_SVD_10Rnd",
+            "m_LocalPosition": [
+                7488.76171875,
+                120.82304382324219,
+                6341.78173828125
+            ],
+            "m_LocalRotation": [
+                -108.21863555908203,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Mag_SVD_10Rnd",
+            "m_LocalPosition": [
+                7488.76171875,
+                120.82304382324219,
+                6341.78173828125
+            ],
+            "m_LocalRotation": [
+                -18.831140518188478,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Mag_SVD_10Rnd",
+            "m_LocalPosition": [
+                7488.76171875,
+                120.82304382324219,
+                6341.78173828125
+            ],
+            "m_LocalRotation": [
+                -81.0156478881836,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Mag_SVD_10Rnd",
+            "m_LocalPosition": [
+                7488.76171875,
+                120.82304382324219,
+                6341.78173828125
+            ],
+            "m_LocalRotation": [
+                -10.81087589263916,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 90.4997329711914,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Mag_SVD_10Rnd",
+            "m_LocalPosition": [
+                7488.76171875,
+                120.82304382324219,
+                6341.78173828125
+            ],
+            "m_LocalRotation": [
+                50.12113952636719,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "DuctTape",
+            "m_LocalPosition": [
+                7488.76171875,
+                120.8345947265625,
+                6341.78173828125
+            ],
+            "m_LocalRotation": [
+                -36.79433059692383,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 31.38933563232422,
+                "m_Quantity": 10.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Mag_SVD_10Rnd",
+            "m_LocalPosition": [
+                7488.76171875,
+                120.82304382324219,
+                6341.78173828125
+            ],
+            "m_LocalRotation": [
+                65.93094635009766,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Mag_SVD_10Rnd",
+            "m_LocalPosition": [
+                7488.76171875,
+                120.82304382324219,
+                6341.78173828125
+            ],
+            "m_LocalRotation": [
+                65.49151611328125,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Mag_SVD_10Rnd",
+            "m_LocalPosition": [
+                7488.76171875,
+                120.82304382324219,
+                6341.78173828125
+            ],
+            "m_LocalRotation": [
+                136.33351135253907,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Mag_SVD_10Rnd",
+            "m_LocalPosition": [
+                7488.76171875,
+                120.82304382324219,
+                6341.78173828125
+            ],
+            "m_LocalRotation": [
+                -118.97456359863281,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Mag_SVD_10Rnd",
+            "m_LocalPosition": [
+                7488.76171875,
+                120.82304382324219,
+                6341.78173828125
+            ],
+            "m_LocalRotation": [
+                -121.92999267578125,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Mag_SVD_10Rnd",
+            "m_LocalPosition": [
+                7488.76171875,
+                120.82304382324219,
+                6341.78173828125
+            ],
+            "m_LocalRotation": [
+                144.419677734375,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "FieldShovel",
+            "m_LocalPosition": [
+                7488.7255859375,
+                120.76810455322266,
+                6341.79248046875
+            ],
+            "m_LocalRotation": [
+                -2.546185255050659,
+                89.9476547241211,
+                -114.24286651611328
+            ],
+            "m_Data": {
+                "m_Health": 135.30479431152345,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Mag_SVD_10Rnd",
+            "m_LocalPosition": [
+                7488.76171875,
+                120.82304382324219,
+                6341.78173828125
+            ],
+            "m_LocalRotation": [
+                -40.43091583251953,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Mag_SVD_10Rnd",
+            "m_LocalPosition": [
+                7488.76171875,
+                120.82304382324219,
+                6341.78173828125
+            ],
+            "m_LocalRotation": [
+                -57.62505340576172,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Mag_SVD_10Rnd",
+            "m_LocalPosition": [
+                7488.76171875,
+                120.82304382324219,
+                6341.78173828125
+            ],
+            "m_LocalRotation": [
+                -57.77885437011719,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 97.77828216552735,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Battery9V",
+            "m_LocalPosition": [
+                7488.76171875,
+                120.76049041748047,
+                6341.78173828125
+            ],
+            "m_LocalRotation": [
+                -96.24315643310547,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 20.0,
+                "m_Quantity": 49.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "MetalWire",
+            "m_LocalPosition": [
+                7488.517578125,
+                120.75531005859375,
+                6341.875
+            ],
+            "m_LocalRotation": [
+                -179.05502319335938,
+                -89.9476547241211,
+                -69.24591064453125
+            ],
+            "m_Data": {
+                "m_Health": 409.08673095703127,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Mag_Expansion_Taser",
+            "m_LocalPosition": [
+                7488.76171875,
+                120.79356384277344,
+                6341.78173828125
+            ],
+            "m_LocalRotation": [
+                1.5601143836975098,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Mag_Expansion_Taser",
+            "m_LocalPosition": [
+                7488.76171875,
+                120.79356384277344,
+                6341.78173828125
+            ],
+            "m_LocalRotation": [
+                132.10362243652345,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Mag_Expansion_Taser",
+            "m_LocalPosition": [
+                7488.76171875,
+                120.79356384277344,
+                6341.78173828125
+            ],
+            "m_LocalRotation": [
+                -19.951778411865236,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Mag_Expansion_Taser",
+            "m_LocalPosition": [
+                7488.76171875,
+                120.79356384277344,
+                6341.78173828125
+            ],
+            "m_LocalRotation": [
+                -172.4686279296875,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "LeatherSewingKit",
+            "m_LocalPosition": [
+                7488.76171875,
+                120.87358093261719,
+                6341.78173828125
+            ],
+            "m_LocalRotation": [
+                165.4811248779297,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 50.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Mag_Expansion_Taser",
+            "m_LocalPosition": [
+                7488.76171875,
+                120.79356384277344,
+                6341.78173828125
+            ],
+            "m_LocalRotation": [
+                -134.46575927734376,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Mag_Expansion_Taser",
+            "m_LocalPosition": [
+                7488.76171875,
+                120.79356384277344,
+                6341.78173828125
+            ],
+            "m_LocalRotation": [
+                -23.13791275024414,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Mag_Expansion_Taser",
+            "m_LocalPosition": [
+                7488.76171875,
+                120.79356384277344,
+                6341.78173828125
+            ],
+            "m_LocalRotation": [
+                -172.58949279785157,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "PNC_Mag_HoneyBadger_Coupled_60Rnd",
+            "m_LocalPosition": [
+                7488.76171875,
+                120.88884735107422,
+                6341.78173828125
+            ],
+            "m_LocalRotation": [
+                -101.81340026855469,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Mag_Expansion_Taser",
+            "m_LocalPosition": [
+                7488.76171875,
+                120.79356384277344,
+                6341.78173828125
+            ],
+            "m_LocalRotation": [
+                163.53646850585938,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "PNC_Mag_HoneyBadger_Coupled_60Rnd",
+            "m_LocalPosition": [
+                7488.76171875,
+                120.88884735107422,
+                6341.78173828125
+            ],
+            "m_LocalRotation": [
+                167.41476440429688,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Mag_Expansion_Taser",
+            "m_LocalPosition": [
+                7488.76171875,
+                120.79356384277344,
+                6341.78173828125
+            ],
+            "m_LocalRotation": [
+                -5.965757846832275,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "PNC_Mag_HoneyBadger_Coupled_60Rnd",
+            "m_LocalPosition": [
+                7488.76171875,
+                120.88884735107422,
+                6341.78173828125
+            ],
+            "m_LocalRotation": [
+                -154.2747344970703,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WeaponCleaningKit",
+            "m_LocalPosition": [
+                7488.76171875,
+                120.90457916259766,
+                6341.78173828125
+            ],
+            "m_LocalRotation": [
+                117.95281219482422,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 25.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Mag_Expansion_Taser",
+            "m_LocalPosition": [
+                7488.76171875,
+                120.79356384277344,
+                6341.78173828125
+            ],
+            "m_LocalRotation": [
+                84.58631896972656,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "PNC_Mag_HoneyBadger_Coupled_60Rnd",
+            "m_LocalPosition": [
+                7488.76171875,
+                120.88884735107422,
+                6341.78173828125
+            ],
+            "m_LocalRotation": [
+                -59.37192916870117,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Mag_Expansion_Taser",
+            "m_LocalPosition": [
+                7488.76171875,
+                120.79356384277344,
+                6341.78173828125
+            ],
+            "m_LocalRotation": [
+                110.15226745605469,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Mag_Expansion_Taser",
+            "m_LocalPosition": [
+                7488.76171875,
+                120.79356384277344,
+                6341.78173828125
+            ],
+            "m_LocalRotation": [
+                107.22982025146485,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Mag_Expansion_Taser",
+            "m_LocalPosition": [
+                7488.76171875,
+                120.79356384277344,
+                6341.78173828125
+            ],
+            "m_LocalRotation": [
+                -16.644792556762697,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Mag_Expansion_Taser",
+            "m_LocalPosition": [
+                7488.76171875,
+                120.79356384277344,
+                6341.78173828125
+            ],
+            "m_LocalRotation": [
+                -82.60871887207031,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Mag_Expansion_Taser",
+            "m_LocalPosition": [
+                7488.76171875,
+                120.79356384277344,
+                6341.78173828125
+            ],
+            "m_LocalRotation": [
+                119.98533630371094,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Mag_Expansion_Taser",
+            "m_LocalPosition": [
+                7488.76171875,
+                120.79356384277344,
+                6341.78173828125
+            ],
+            "m_LocalRotation": [
+                -106.62556457519531,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Heatpack",
+            "m_LocalPosition": [
+                7488.70947265625,
+                120.75382995605469,
+                6341.798828125
+            ],
+            "m_LocalRotation": [
+                -2.546185255050659,
+                89.9476547241211,
+                -114.24286651611328
+            ],
+            "m_Data": {
+                "m_Health": 30.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 25
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WeaponCleaningKit",
+            "m_LocalPosition": [
+                7488.76171875,
+                120.90457916259766,
+                6341.78173828125
+            ],
+            "m_LocalRotation": [
+                -5.262611389160156,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 100.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "LeatherSewingKit",
+            "m_LocalPosition": [
+                7488.76171875,
+                120.87358093261719,
+                6341.78173828125
+            ],
+            "m_LocalRotation": [
+                82.33402252197266,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 100.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Mag_Expansion_Taser",
+            "m_LocalPosition": [
+                7488.76171875,
+                120.79356384277344,
+                6341.78173828125
+            ],
+            "m_LocalRotation": [
+                35.223243713378909,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WeaponCleaningKit",
+            "m_LocalPosition": [
+                7488.76171875,
+                120.90457916259766,
+                6341.78173828125
+            ],
+            "m_LocalRotation": [
+                -139.36582946777345,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 100.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Heatpack",
+            "m_LocalPosition": [
+                7488.70947265625,
+                120.77713775634766,
+                6341.798828125
+            ],
+            "m_LocalRotation": [
+                -179.05502319335938,
+                -89.9476547241211,
+                -69.24591064453125
+            ],
+            "m_Data": {
+                "m_Health": 30.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 25
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        }
+    ]
+}

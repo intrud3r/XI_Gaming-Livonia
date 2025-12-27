@@ -1,0 +1,26 @@
+{
+    "m_IsLocalPosition": 0,
+    "m_Items": [
+        {
+            "m_Classname": "DeadFall_Key_B",
+            "m_LocalPosition": [
+                9765.4072265625,
+                171.01026916503907,
+                9773.6806640625
+            ],
+            "m_LocalRotation": [
+                0.0,
+                90.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 120.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        }
+    ]
+}

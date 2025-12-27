@@ -1,0 +1,89 @@
+{
+    "m_IsLocalPosition": 0,
+    "m_Items": [
+        {
+            "m_Classname": "AK101",
+            "m_LocalPosition": [
+                7645.720703125,
+                139.28652954101563,
+                6445.00732421875
+            ],
+            "m_LocalRotation": [
+                8.37714672088623,
+                -90.0,
+                -171.6246337890625
+            ],
+            "m_Data": {
+                "m_Health": 300.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "AK101",
+            "m_LocalPosition": [
+                7645.720703125,
+                139.30555725097657,
+                6445.00732421875
+            ],
+            "m_LocalRotation": [
+                -81.62122344970703,
+                90.0,
+                81.62122344970703
+            ],
+            "m_Data": {
+                "m_Health": 300.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "AK101",
+            "m_LocalPosition": [
+                7645.720703125,
+                139.28652954101563,
+                6445.00732421875
+            ],
+            "m_LocalRotation": [
+                8.37714672088623,
+                -90.0,
+                -171.6246337890625
+            ],
+            "m_Data": {
+                "m_Health": 300.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "AK101",
+            "m_LocalPosition": [
+                7645.720703125,
+                139.30555725097657,
+                6445.00732421875
+            ],
+            "m_LocalRotation": [
+                -81.62122344970703,
+                90.0,
+                81.62122344970703
+            ],
+            "m_Data": {
+                "m_Health": 300.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "VehicleName": "RTrzr_Woodland",
+    "DisplayName": "",
+    "Parts": [
+        "RT_rzr_driver_door_woodland",
+        "RT_rzr_codriver_door_woodland",
+        "RT_rzr_hood_woodland",
+        "RT_rzr_wheel_woodland",
+        "RT_rzr_wheel_woodland",
+        "RT_rzr_wheel_woodland",
+        "RT_rzr_wheel_woodland",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "SparkPlug"
+    ]
+}

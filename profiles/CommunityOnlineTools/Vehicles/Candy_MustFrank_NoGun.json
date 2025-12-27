@@ -1,0 +1,20 @@
+{
+    "VehicleName": "Candy_MustFrank_NoGun",
+    "DisplayName": "",
+    "Parts": [
+        "CarBattery",
+        "CarRadiator",
+        "SparkPlug",
+        "HeadlightH7",
+        "HeadlightH7",
+        "Candy_MustFrank_Wheel",
+        "Candy_MustFrank_Wheel",
+        "Candy_MustFrank_Wheel",
+        "Candy_MustFrank_Wheel",
+        "Candy_MustFrank_Doors_Driver",
+        "Candy_MustFrank_Doors_CoDriver",
+        "Candy_MustFrank_Doors_Trunk",
+        "Candy_MustFrank_Doors_Trunk0",
+        "Candy_MustFrank_Doors_Hood"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "VehicleName": "RTrzr_Eclipse",
+    "DisplayName": "",
+    "Parts": [
+        "RT_rzr_driver_door_eclipse",
+        "RT_rzr_codriver_door_eclipse",
+        "RT_rzr_hood_eclipse",
+        "RT_rzr_wheel_eclipse",
+        "RT_rzr_wheel_eclipse",
+        "RT_rzr_wheel_eclipse",
+        "RT_rzr_wheel_eclipse",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "SparkPlug"
+    ]
+}

@@ -1,0 +1,712 @@
+{
+    "m_IsLocalPosition": 0,
+    "m_Items": [
+        {
+            "m_Classname": "TacticalBaconCan",
+            "m_LocalPosition": [
+                7488.76171875,
+                120.76117706298828,
+                6341.78173828125
+            ],
+            "m_LocalRotation": [
+                161.31716918945313,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "TacticalBaconCan",
+            "m_LocalPosition": [
+                7488.76171875,
+                120.76117706298828,
+                6341.78173828125
+            ],
+            "m_LocalRotation": [
+                167.31590270996095,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Pot",
+            "m_LocalPosition": [
+                7488.76171875,
+                120.76189422607422,
+                6341.78173828125
+            ],
+            "m_LocalRotation": [
+                128.554931640625,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 192.22705078125,
+                "m_Quantity": 1948.0,
+                "m_LiquidType": 512,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": [
+                {
+                    "m_Classname": "BoletusMushroom",
+                    "m_Data": {
+                        "m_Health": 10.0,
+                        "m_Quantity": 150.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "BoletusMushroom",
+                    "m_Data": {
+                        "m_Health": 10.0,
+                        "m_Quantity": 150.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "BoletusMushroom",
+                    "m_Data": {
+                        "m_Health": 10.0,
+                        "m_Quantity": 150.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "BoletusMushroom",
+                    "m_Data": {
+                        "m_Health": 10.0,
+                        "m_Quantity": 150.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "BoletusMushroom",
+                    "m_Data": {
+                        "m_Health": 10.0,
+                        "m_Quantity": 150.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "BoletusMushroom",
+                    "m_Data": {
+                        "m_Health": 10.0,
+                        "m_Quantity": 150.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        },
+        {
+            "m_Classname": "TacticalBaconCan",
+            "m_LocalPosition": [
+                7488.76171875,
+                120.76117706298828,
+                6341.78173828125
+            ],
+            "m_LocalRotation": [
+                156.6697998046875,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "TacticalBaconCan",
+            "m_LocalPosition": [
+                7488.76171875,
+                120.76117706298828,
+                6341.78173828125
+            ],
+            "m_LocalRotation": [
+                -113.44828033447266,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Canteen",
+            "m_LocalPosition": [
+                7488.76171875,
+                120.89433288574219,
+                6341.78173828125
+            ],
+            "m_LocalRotation": [
+                -82.83943176269531,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 1000.0,
+                "m_LiquidType": 512,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "LUNCHBOX_DON_BLUE",
+            "m_LocalPosition": [
+                7488.76171875,
+                120.83788299560547,
+                6341.78173828125
+            ],
+            "m_LocalRotation": [
+                -52.285526275634769,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": [
+                {
+                    "m_Classname": "Lunchmeat",
+                    "m_Data": {
+                        "m_Health": 70.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Lunchmeat",
+                    "m_Data": {
+                        "m_Health": 70.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Lunchmeat",
+                    "m_Data": {
+                        "m_Health": 70.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        },
+        {
+            "m_Classname": "LUNCHBOX_DON_BEE",
+            "m_LocalPosition": [
+                7488.76171875,
+                120.83788299560547,
+                6341.78173828125
+            ],
+            "m_LocalRotation": [
+                -73.1162338256836,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": [
+                {
+                    "m_Classname": "DONFOOD_CAN_CHERARMYNO23",
+                    "m_Data": {
+                        "m_Health": 100.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Lunchmeat",
+                    "m_Data": {
+                        "m_Health": 70.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        },
+        {
+            "m_Classname": "PorkCan",
+            "m_LocalPosition": [
+                7488.76171875,
+                120.80342102050781,
+                6341.78173828125
+            ],
+            "m_LocalRotation": [
+                164.06382751464845,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 70.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Pot",
+            "m_LocalPosition": [
+                7488.76171875,
+                120.76189422607422,
+                6341.78173828125
+            ],
+            "m_LocalRotation": [
+                -96.75955200195313,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 200.0,
+                "m_Quantity": 2000.0,
+                "m_LiquidType": 512,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": [
+                {
+                    "m_Classname": "DONFOOD_FoodBag_Blue",
+                    "m_Data": {
+                        "m_Health": 100.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": [
+                        {
+                            "m_Classname": "Lunchmeat",
+                            "m_Data": {
+                                "m_Health": 70.0,
+                                "m_Quantity": 0.0,
+                                "m_LiquidType": 0,
+                                "m_Temperature": 0
+                            },
+                            "m_Attachments": []
+                        },
+                        {
+                            "m_Classname": "Lunchmeat",
+                            "m_Data": {
+                                "m_Health": 70.0,
+                                "m_Quantity": 0.0,
+                                "m_LiquidType": 0,
+                                "m_Temperature": 0
+                            },
+                            "m_Attachments": []
+                        },
+                        {
+                            "m_Classname": "Lunchmeat",
+                            "m_Data": {
+                                "m_Health": 70.0,
+                                "m_Quantity": 0.0,
+                                "m_LiquidType": 0,
+                                "m_Temperature": 0
+                            },
+                            "m_Attachments": []
+                        },
+                        {
+                            "m_Classname": "SardinesCan",
+                            "m_Data": {
+                                "m_Health": 70.0,
+                                "m_Quantity": 0.0,
+                                "m_LiquidType": 0,
+                                "m_Temperature": 0
+                            },
+                            "m_Attachments": []
+                        }
+                    ]
+                },
+                {
+                    "m_Classname": "DONFOOD_FoodBag_Green",
+                    "m_Data": {
+                        "m_Health": 100.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": [
+                        {
+                            "m_Classname": "Lunchmeat",
+                            "m_Data": {
+                                "m_Health": 70.0,
+                                "m_Quantity": 0.0,
+                                "m_LiquidType": 0,
+                                "m_Temperature": 0
+                            },
+                            "m_Attachments": []
+                        },
+                        {
+                            "m_Classname": "Lunchmeat",
+                            "m_Data": {
+                                "m_Health": 70.0,
+                                "m_Quantity": 0.0,
+                                "m_LiquidType": 0,
+                                "m_Temperature": 0
+                            },
+                            "m_Attachments": []
+                        },
+                        {
+                            "m_Classname": "Lunchmeat",
+                            "m_Data": {
+                                "m_Health": 70.0,
+                                "m_Quantity": 0.0,
+                                "m_LiquidType": 0,
+                                "m_Temperature": 0
+                            },
+                            "m_Attachments": []
+                        },
+                        {
+                            "m_Classname": "Lunchmeat",
+                            "m_Data": {
+                                "m_Health": 70.0,
+                                "m_Quantity": 0.0,
+                                "m_LiquidType": 0,
+                                "m_Temperature": 0
+                            },
+                            "m_Attachments": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "m_Classname": "PorkCan",
+            "m_LocalPosition": [
+                7488.76171875,
+                120.80342102050781,
+                6341.78173828125
+            ],
+            "m_LocalRotation": [
+                17.82036018371582,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 70.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "PorkCan",
+            "m_LocalPosition": [
+                7488.76171875,
+                120.80342102050781,
+                6341.78173828125
+            ],
+            "m_LocalRotation": [
+                99.33040618896485,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 70.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "BakedBeansCan",
+            "m_LocalPosition": [
+                7488.76171875,
+                120.76117706298828,
+                6341.78173828125
+            ],
+            "m_LocalRotation": [
+                110.48186492919922,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "DONFOOD_CAN_RUSBFBF",
+            "m_LocalPosition": [
+                7488.76171875,
+                120.76117706298828,
+                6341.78173828125
+            ],
+            "m_LocalRotation": [
+                -84.3775634765625,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "BakedBeansCan",
+            "m_LocalPosition": [
+                7488.76171875,
+                120.76117706298828,
+                6341.78173828125
+            ],
+            "m_LocalRotation": [
+                -110.39399719238281,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Canteen",
+            "m_LocalPosition": [
+                7488.76171875,
+                120.89433288574219,
+                6341.78173828125
+            ],
+            "m_LocalRotation": [
+                -49.187286376953128,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 545.0,
+                "m_LiquidType": 512,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Pot",
+            "m_LocalPosition": [
+                7488.76171875,
+                120.76189422607422,
+                6341.78173828125
+            ],
+            "m_LocalRotation": [
+                118.43622589111328,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 192.22705078125,
+                "m_Quantity": 1948.0,
+                "m_LiquidType": 512,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": [
+                {
+                    "m_Classname": "BoletusMushroom",
+                    "m_Data": {
+                        "m_Health": 10.0,
+                        "m_Quantity": 150.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "BoletusMushroom",
+                    "m_Data": {
+                        "m_Health": 10.0,
+                        "m_Quantity": 150.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "BoletusMushroom",
+                    "m_Data": {
+                        "m_Health": 10.0,
+                        "m_Quantity": 150.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "BoletusMushroom",
+                    "m_Data": {
+                        "m_Health": 10.0,
+                        "m_Quantity": 150.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "BoletusMushroom",
+                    "m_Data": {
+                        "m_Health": 10.0,
+                        "m_Quantity": 150.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "BoletusMushroom",
+                    "m_Data": {
+                        "m_Health": 10.0,
+                        "m_Quantity": 150.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        },
+        {
+            "m_Classname": "LUNCHBOX_DON_BLUE",
+            "m_LocalPosition": [
+                7488.76171875,
+                120.83788299560547,
+                6341.78173828125
+            ],
+            "m_LocalRotation": [
+                157.73550415039063,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": [
+                {
+                    "m_Classname": "DONFOOD_CAN_ZucchiniSlices2",
+                    "m_Data": {
+                        "m_Health": 100.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "BrisketSpread",
+                    "m_Data": {
+                        "m_Health": 70.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Pajka",
+                    "m_Data": {
+                        "m_Health": 70.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        },
+        {
+            "m_Classname": "Canteen",
+            "m_LocalPosition": [
+                7488.76171875,
+                120.89433288574219,
+                6341.78173828125
+            ],
+            "m_LocalRotation": [
+                -10.942715644836426,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 1000.0,
+                "m_LiquidType": 512,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        }
+    ]
+}

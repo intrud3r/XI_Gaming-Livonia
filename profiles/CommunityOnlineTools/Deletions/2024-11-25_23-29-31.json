@@ -1,0 +1,37 @@
+{
+    "m_IsLocalPosition": 0,
+    "m_Items": [
+        {
+            "m_Classname": "CivilianBelt",
+            "m_LocalPosition": [
+                5393.375,
+                143.87826538085938,
+                6967.28955078125
+            ],
+            "m_LocalRotation": [
+                -120.02204132080078,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 29.817350387573243,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": [
+                {
+                    "m_Classname": "Canteen",
+                    "m_Data": {
+                        "m_Health": 60.187686920166019,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 25
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,771 @@
+{
+    "m_IsLocalPosition": 0,
+    "m_Items": [
+        {
+            "m_Classname": "Lost_hunters_NBCpants_purple",
+            "m_LocalPosition": [
+                6712.56201171875,
+                103.39860534667969,
+                6134.318359375
+            ],
+            "m_LocalRotation": [
+                -69.97406005859375,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 500.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Lost_hunters_NBCpants_orange",
+            "m_LocalPosition": [
+                6712.31689453125,
+                103.24263000488281,
+                6134.4580078125
+            ],
+            "m_LocalRotation": [
+                -46.00115966796875,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 500.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Lost_hunters_NBCjacket_pink",
+            "m_LocalPosition": [
+                6712.568359375,
+                103.04471588134766,
+                6133.2685546875
+            ],
+            "m_LocalRotation": [
+                -100.85755157470703,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 500.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Lost_hunters_NBCjacket_blue",
+            "m_LocalPosition": [
+                6712.4013671875,
+                102.91024017333985,
+                6133.39892578125
+            ],
+            "m_LocalRotation": [
+                93.04602813720703,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 500.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Lost_hunters_NBCpants_red",
+            "m_LocalPosition": [
+                6712.80419921875,
+                103.55489349365235,
+                6134.19189453125
+            ],
+            "m_LocalRotation": [
+                35.8055305480957,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 500.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Lost_hunters_NBCjacket_winter",
+            "m_LocalPosition": [
+                6712.22021484375,
+                102.76190185546875,
+                6133.53564453125
+            ],
+            "m_LocalRotation": [
+                38.93673324584961,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 500.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Lost_hunters_NBCjacket",
+            "m_LocalPosition": [
+                6712.0390625,
+                102.61356353759766,
+                6133.681640625
+            ],
+            "m_LocalRotation": [
+                26.97226905822754,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 500.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Lost_hunters_NBCpants_blue",
+            "m_LocalPosition": [
+                6711.62646484375,
+                102.79865264892578,
+                6134.83447265625
+            ],
+            "m_LocalRotation": [
+                -58.84457015991211,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 500.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Lost_hunters_NBCpants_winter",
+            "m_LocalPosition": [
+                6711.3857421875,
+                102.64398193359375,
+                6134.95703125
+            ],
+            "m_LocalRotation": [
+                139.49766540527345,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 500.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Lost_hunters_bag_yellow",
+            "m_LocalPosition": [
+                6711.08837890625,
+                103.6609878540039,
+                6136.376953125
+            ],
+            "m_LocalRotation": [
+                0.0,
+                -90.0,
+                -180.0
+            ],
+            "m_Data": {
+                "m_Health": 500.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": [
+                {
+                    "m_Classname": "Candycane_Green",
+                    "m_Data": {
+                        "m_Health": 10.0,
+                        "m_Quantity": 150.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": -1
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Candycane_Green",
+                    "m_Data": {
+                        "m_Health": 10.0,
+                        "m_Quantity": 150.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": -1
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        },
+        {
+            "m_Classname": "Lost_hunters_NBCpants_green",
+            "m_LocalPosition": [
+                6712.1162109375,
+                103.11064147949219,
+                6134.56884765625
+            ],
+            "m_LocalRotation": [
+                -123.9954833984375,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 500.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Lost_hunters_NBCpants_pink",
+            "m_LocalPosition": [
+                6711.8720703125,
+                102.95427703857422,
+                6134.7041015625
+            ],
+            "m_LocalRotation": [
+                -14.733115196228028,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 500.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Lost_hunters_NBCpants",
+            "m_LocalPosition": [
+                6711.150390625,
+                102.49219512939453,
+                6135.08837890625
+            ],
+            "m_LocalRotation": [
+                135.90501403808595,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 500.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Lost_hunters_bag_winter",
+            "m_LocalPosition": [
+                6709.84814453125,
+                102.60330200195313,
+                6135.76806640625
+            ],
+            "m_LocalRotation": [
+                0.0,
+                -90.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 500.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": [
+                {
+                    "m_Classname": "Candycane_Green",
+                    "m_Data": {
+                        "m_Health": 10.0,
+                        "m_Quantity": 150.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": -1
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Candycane_Green",
+                    "m_Data": {
+                        "m_Health": 10.0,
+                        "m_Quantity": 150.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": -1
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        },
+        {
+            "m_Classname": "Lost_hunters_NBCpants_green",
+            "m_LocalPosition": [
+                6713.078125,
+                103.71085357666016,
+                6134.10791015625
+            ],
+            "m_LocalRotation": [
+                140.2008056640625,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 500.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Lost_hunters_bag",
+            "m_LocalPosition": [
+                6709.8203125,
+                102.58558654785156,
+                6135.76171875
+            ],
+            "m_LocalRotation": [
+                0.0,
+                -90.0,
+                -180.0
+            ],
+            "m_Data": {
+                "m_Health": 500.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": [
+                {
+                    "m_Classname": "Torch",
+                    "m_Data": {
+                        "m_Health": 100.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Candycane_Green",
+                    "m_Data": {
+                        "m_Health": 10.0,
+                        "m_Quantity": 150.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": -1
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Candycane_Green",
+                    "m_Data": {
+                        "m_Health": 10.0,
+                        "m_Quantity": 150.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": -1
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        },
+        {
+            "m_Classname": "Lost_hunters_bag_purple",
+            "m_LocalPosition": [
+                6710.42138671875,
+                103.02069854736328,
+                6136.34033203125
+            ],
+            "m_LocalRotation": [
+                0.0,
+                -90.0,
+                0.0
+            ],
+            "m_Data": {
+                "m_Health": 500.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": [
+                {
+                    "m_Classname": "Candycane_Green",
+                    "m_Data": {
+                        "m_Health": 10.0,
+                        "m_Quantity": 150.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": -1
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Candycane_Green",
+                    "m_Data": {
+                        "m_Health": 10.0,
+                        "m_Quantity": 150.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": -1
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        },
+        {
+            "m_Classname": "Lost_hunters_bag_green",
+            "m_LocalPosition": [
+                6710.02197265625,
+                102.63628387451172,
+                6136.318359375
+            ],
+            "m_LocalRotation": [
+                0.0,
+                -90.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 500.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": [
+                {
+                    "m_Classname": "Candycane_Green",
+                    "m_Data": {
+                        "m_Health": 10.0,
+                        "m_Quantity": 150.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": -1
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Candycane_Green",
+                    "m_Data": {
+                        "m_Health": 10.0,
+                        "m_Quantity": 150.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": -1
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        },
+        {
+            "m_Classname": "Lost_hunters_bag_orange",
+            "m_LocalPosition": [
+                6710.107421875,
+                102.71761322021485,
+                6136.3232421875
+            ],
+            "m_LocalRotation": [
+                0.0,
+                -90.0,
+                0.0
+            ],
+            "m_Data": {
+                "m_Health": 500.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": [
+                {
+                    "m_Classname": "Candycane_Green",
+                    "m_Data": {
+                        "m_Health": 10.0,
+                        "m_Quantity": 150.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": -1
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Candycane_Green",
+                    "m_Data": {
+                        "m_Health": 10.0,
+                        "m_Quantity": 150.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": -1
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        },
+        {
+            "m_Classname": "Lost_hunters_bag_red",
+            "m_LocalPosition": [
+                6710.6767578125,
+                103.27063751220703,
+                6136.3564453125
+            ],
+            "m_LocalRotation": [
+                0.0,
+                -90.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 500.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": [
+                {
+                    "m_Classname": "Candycane_Green",
+                    "m_Data": {
+                        "m_Health": 10.0,
+                        "m_Quantity": 150.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": -1
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Candycane_Green",
+                    "m_Data": {
+                        "m_Health": 10.0,
+                        "m_Quantity": 150.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": -1
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        },
+        {
+            "m_Classname": "Lost_hunters_bag_teal",
+            "m_LocalPosition": [
+                6710.7705078125,
+                103.35790252685547,
+                6136.36376953125
+            ],
+            "m_LocalRotation": [
+                0.0,
+                -90.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 500.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": [
+                {
+                    "m_Classname": "Candycane_Green",
+                    "m_Data": {
+                        "m_Health": 10.0,
+                        "m_Quantity": 150.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": -1
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Candycane_Green",
+                    "m_Data": {
+                        "m_Health": 10.0,
+                        "m_Quantity": 150.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": -1
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        },
+        {
+            "m_Classname": "Lost_hunters_NBCjacket_green",
+            "m_LocalPosition": [
+                6712.73095703125,
+                103.17716217041016,
+                6133.13671875
+            ],
+            "m_LocalRotation": [
+                -37.82707977294922,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 500.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Lost_hunters_NBCjacket_orange",
+            "m_LocalPosition": [
+                6712.88232421875,
+                103.30533599853516,
+                6133.01318359375
+            ],
+            "m_LocalRotation": [
+                22.566633224487306,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 500.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Lost_hunters_bag_pink",
+            "m_LocalPosition": [
+                6709.99560546875,
+                102.60453033447266,
+                6136.31494140625
+            ],
+            "m_LocalRotation": [
+                0.0,
+                -90.0,
+                -180.0
+            ],
+            "m_Data": {
+                "m_Health": 500.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": [
+                {
+                    "m_Classname": "Candycane_Green",
+                    "m_Data": {
+                        "m_Health": 10.0,
+                        "m_Quantity": 150.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": -1
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Candycane_Green",
+                    "m_Data": {
+                        "m_Health": 10.0,
+                        "m_Quantity": 150.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": -1
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        },
+        {
+            "m_Classname": "Lost_hunters_bag_blue",
+            "m_LocalPosition": [
+                6709.96728515625,
+                102.58558654785156,
+                6136.31787109375
+            ],
+            "m_LocalRotation": [
+                0.0,
+                -90.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 500.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": [
+                {
+                    "m_Classname": "Candycane_Green",
+                    "m_Data": {
+                        "m_Health": 10.0,
+                        "m_Quantity": 150.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": -1
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Candycane_Green",
+                    "m_Data": {
+                        "m_Health": 10.0,
+                        "m_Quantity": 150.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": -1
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        },
+        {
+            "m_Classname": "ReflexVest",
+            "m_LocalPosition": [
+                6685.517578125,
+                106.40811157226563,
+                6117.7314453125
+            ],
+            "m_LocalRotation": [
+                -54.79048538208008,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 41.78725051879883,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        }
+    ]
+}

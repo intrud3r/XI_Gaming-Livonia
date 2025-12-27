@@ -1,0 +1,89 @@
+{
+    "m_IsLocalPosition": 0,
+    "m_Items": [
+        {
+            "m_Classname": "WoodenLog",
+            "m_LocalPosition": [
+                2946.6171875,
+                257.112060546875,
+                485.30810546875
+            ],
+            "m_LocalRotation": [
+                113.48124694824219,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 500.0,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WoodenPlank",
+            "m_LocalPosition": [
+                2946.6171875,
+                257.1796875,
+                485.30810546875
+            ],
+            "m_LocalRotation": [
+                -20.006711959838868,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 10.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "MetalWire",
+            "m_LocalPosition": [
+                2946.6171875,
+                257.2747497558594,
+                485.30810546875
+            ],
+            "m_LocalRotation": [
+                -5.537278175354004,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 500.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "MetalPlate",
+            "m_LocalPosition": [
+                2946.6171875,
+                257.0963439941406,
+                485.30810546875
+            ],
+            "m_LocalRotation": [
+                -58.91049575805664,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 10.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        }
+    ]
+}

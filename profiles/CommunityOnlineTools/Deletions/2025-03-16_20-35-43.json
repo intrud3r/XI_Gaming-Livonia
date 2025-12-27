@@ -1,0 +1,47 @@
+{
+    "m_IsLocalPosition": 0,
+    "m_Items": [
+        {
+            "m_Classname": "WoodenPlank",
+            "m_LocalPosition": [
+                2946.6171875,
+                257.1796875,
+                485.30810546875
+            ],
+            "m_LocalRotation": [
+                -152.09934997558595,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 10.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WoodenStick",
+            "m_LocalPosition": [
+                2946.6171875,
+                257.1119689941406,
+                485.30810546875
+            ],
+            "m_LocalRotation": [
+                -138.8494415283203,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 50.0,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        }
+    ]
+}

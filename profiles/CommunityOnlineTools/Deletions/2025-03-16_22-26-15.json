@@ -1,0 +1,346 @@
+{
+    "m_IsLocalPosition": 0,
+    "m_Items": [
+        {
+            "m_Classname": "ExpansionWallKit",
+            "m_LocalPosition": [
+                2950.512939453125,
+                249.70240783691407,
+                472.99761962890627
+            ],
+            "m_LocalRotation": [
+                0.0,
+                -90.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": [
+                {
+                    "m_Classname": "Rope",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        },
+        {
+            "m_Classname": "ExpansionWallKit",
+            "m_LocalPosition": [
+                2950.524658203125,
+                249.69493103027345,
+                472.9933776855469
+            ],
+            "m_LocalRotation": [
+                0.0,
+                90.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": [
+                {
+                    "m_Classname": "Rope",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        },
+        {
+            "m_Classname": "TerritoryFlagKit",
+            "m_LocalPosition": [
+                2963.62158203125,
+                197.75196838378907,
+                505.59136962890627
+            ],
+            "m_LocalRotation": [
+                0.0,
+                -90.0,
+                -180.0
+            ],
+            "m_Data": {
+                "m_Health": 200.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": [
+                {
+                    "m_Classname": "Rope",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        },
+        {
+            "m_Classname": "ExpansionWallKit",
+            "m_LocalPosition": [
+                2968.7158203125,
+                201.2443389892578,
+                496.86163330078127
+            ],
+            "m_LocalRotation": [
+                0.0,
+                -90.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": [
+                {
+                    "m_Classname": "Rope",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        },
+        {
+            "m_Classname": "ExpansionStairKit",
+            "m_LocalPosition": [
+                2967.2919921875,
+                197.32301330566407,
+                497.9314270019531
+            ],
+            "m_LocalRotation": [
+                110.41731262207031,
+                -56.04010009765625,
+                76.71487426757813
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": [
+                {
+                    "m_Classname": "Rope",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        },
+        {
+            "m_Classname": "ExpansionStairKit",
+            "m_LocalPosition": [
+                2966.937255859375,
+                197.12472534179688,
+                497.65789794921877
+            ],
+            "m_LocalRotation": [
+                0.0,
+                90.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": [
+                {
+                    "m_Classname": "Rope",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        },
+        {
+            "m_Classname": "ExpansionWallKit",
+            "m_LocalPosition": [
+                2968.318603515625,
+                201.06163024902345,
+                496.89678955078127
+            ],
+            "m_LocalRotation": [
+                0.0,
+                90.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": [
+                {
+                    "m_Classname": "Rope",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        },
+        {
+            "m_Classname": "Fireplace",
+            "m_LocalPosition": [
+                2947.9716796875,
+                246.29766845703126,
+                469.2540588378906
+            ],
+            "m_LocalRotation": [
+                133.0814666748047,
+                -7.095525234035449e-7,
+                -2.7677353386934558e-7
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 5.2272725105285648,
+                "m_LiquidType": 0,
+                "m_Temperature": 500
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": [
+                {
+                    "m_Classname": "WoodenStick",
+                    "m_Data": {
+                        "m_Health": 13.000001907348633,
+                        "m_Quantity": 3.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        },
+        {
+            "m_Classname": "ExpansionWallKit",
+            "m_LocalPosition": [
+                2955.268310546875,
+                216.13670349121095,
+                482.3240661621094
+            ],
+            "m_LocalRotation": [
+                8.447710990905762,
+                86.39842224121094,
+                -146.35986328125
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": [
+                {
+                    "m_Classname": "Rope",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        },
+        {
+            "m_Classname": "Ancient_bear_pelt",
+            "m_LocalPosition": [
+                2924.709716796875,
+                274.7598571777344,
+                437.31292724609377
+            ],
+            "m_LocalRotation": [
+                -96.28144073486328,
+                23.205642700195314,
+                -51.89348220825195
+            ],
+            "m_Data": {
+                "m_Health": 2.3399999141693117,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "TerritoryFlagKit",
+            "m_LocalPosition": [
+                2968.416748046875,
+                213.7879638671875,
+                496.06298828125
+            ],
+            "m_LocalRotation": [
+                0.0,
+                90.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 200.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": [
+                {
+                    "m_Classname": "Rope",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "m_IsLocalPosition": 0,
+    "m_Items": [
+        {
+            "m_Classname": "ExpansionWallKit",
+            "m_LocalPosition": [
+                7487.16748046875,
+                120.83470153808594,
+                6344.15576171875
+            ],
+            "m_LocalRotation": [
+                -179.02523803710938,
+                -89.94403839111328,
+                130.04776000976563
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": [
+                {
+                    "m_Classname": "Rope",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        },
+        {
+            "m_Classname": "ExpansionAdminHammer",
+            "m_LocalPosition": [
+                7487.16748046875,
+                120.7669677734375,
+                6344.15625
+            ],
+            "m_LocalRotation": [
+                -0.7898830771446228,
+                89.9515380859375,
+                48.19036102294922
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        }
+    ]
+}

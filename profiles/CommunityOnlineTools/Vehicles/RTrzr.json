@@ -1,0 +1,18 @@
+{
+    "VehicleName": "RTrzr",
+    "DisplayName": "",
+    "Parts": [
+        "RT_rzr_driver_door",
+        "RT_rzr_codriver_door",
+        "RT_rzr_hood",
+        "RT_rzr_wheel",
+        "RT_rzr_wheel",
+        "RT_rzr_wheel",
+        "RT_rzr_wheel",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "SparkPlug"
+    ]
+}

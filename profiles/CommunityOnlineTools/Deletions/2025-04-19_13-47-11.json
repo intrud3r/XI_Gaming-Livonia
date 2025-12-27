@@ -1,0 +1,303 @@
+{
+    "m_IsLocalPosition": 0,
+    "m_Items": [
+        {
+            "m_Classname": "DONDRINK_BOTTLE_PEPSIR",
+            "m_LocalPosition": [
+                6643.20654296875,
+                103.71092224121094,
+                6103.28173828125
+            ],
+            "m_LocalRotation": [
+                -111.17403411865235,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 34.12761688232422,
+                "m_Quantity": 348.0,
+                "m_LiquidType": 512,
+                "m_Temperature": -1
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "ExpansionFloor6x6",
+            "m_LocalPosition": [
+                4976.48828125,
+                183.77008056640626,
+                6538.63623046875
+            ],
+            "m_LocalRotation": [
+                -88.6150131225586,
+                0.0,
+                0.0
+            ],
+            "m_Data": {
+                "m_Health": 30000.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [
+                "wood_floorframe",
+                "wood_floorfinished",
+                "wood_base"
+            ],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "ExpansionWall6x3",
+            "m_LocalPosition": [
+                4973.34423828125,
+                183.77008056640626,
+                6532.71240234375
+            ],
+            "m_LocalRotation": [
+                -88.58446502685547,
+                0.0,
+                0.0
+            ],
+            "m_Data": {
+                "m_Health": 30000.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [
+                "wood_wallfinished",
+                "wood_wallframe",
+                "wood_base"
+            ],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "ExpansionFloor6x6",
+            "m_LocalPosition": [
+                4976.34326171875,
+                183.77008056640626,
+                6532.63818359375
+            ],
+            "m_LocalRotation": [
+                -88.6150131225586,
+                0.0,
+                0.0
+            ],
+            "m_Data": {
+                "m_Health": 30000.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [
+                "wood_floorframe",
+                "wood_floorfinished",
+                "wood_base"
+            ],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "ExpansionWall6x3",
+            "m_LocalPosition": [
+                4976.5625,
+                183.7705535888672,
+                6541.63525390625
+            ],
+            "m_LocalRotation": [
+                1.4155197143554688,
+                0.0,
+                0.0
+            ],
+            "m_Data": {
+                "m_Health": 30000.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [
+                "wood_windowfinished",
+                "wood_windowframe",
+                "wood_base"
+            ],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "ExpansionWall6x3",
+            "m_LocalPosition": [
+                4973.49267578125,
+                183.7705535888672,
+                6538.71044921875
+            ],
+            "m_LocalRotation": [
+                -88.58446502685547,
+                0.0,
+                0.0
+            ],
+            "m_Data": {
+                "m_Health": 30000.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [
+                "wood_doorframe",
+                "wood_doorfinished",
+                "wood_base"
+            ],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "ExpansionFloor6x6",
+            "m_LocalPosition": [
+                4982.341796875,
+                183.7696075439453,
+                6532.4931640625
+            ],
+            "m_LocalRotation": [
+                -178.61500549316407,
+                0.0,
+                0.0
+            ],
+            "m_Data": {
+                "m_Health": 30000.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [
+                "wood_floorframe",
+                "wood_floorfinished",
+                "wood_base"
+            ],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "DONFOOD_CANDYBAR_ILKA_NOISETTE",
+            "m_LocalPosition": [
+                1822.3280029296876,
+                224.5372314453125,
+                1454.992431640625
+            ],
+            "m_LocalRotation": [
+                0.0,
+                -90.0,
+                0.0
+            ],
+            "m_Data": {
+                "m_Health": 34.23696517944336,
+                "m_Quantity": 19.0,
+                "m_LiquidType": 0,
+                "m_Temperature": -2
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "ExpansionFloor6x6",
+            "m_LocalPosition": [
+                4982.48681640625,
+                183.7696075439453,
+                6538.4912109375
+            ],
+            "m_LocalRotation": [
+                -178.61346435546876,
+                0.0,
+                0.0
+            ],
+            "m_Data": {
+                "m_Health": 30000.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [
+                "wood_floorframe",
+                "wood_floorfinished",
+                "wood_base"
+            ],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "ExpansionWall6x3",
+            "m_LocalPosition": [
+                4982.5595703125,
+                183.7696075439453,
+                6541.490234375
+            ],
+            "m_LocalRotation": [
+                1.3861218690872193,
+                0.0,
+                0.0
+            ],
+            "m_Data": {
+                "m_Health": 30000.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [
+                "wood_windowfinished",
+                "wood_windowframe",
+                "wood_base"
+            ],
+            "m_Attachments": [
+                {
+                    "m_Classname": "ExpansionLumber3",
+                    "m_Data": {
+                        "m_Health": 100.0,
+                        "m_Quantity": 6.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Nail",
+                    "m_Data": {
+                        "m_Health": 80.0,
+                        "m_Quantity": 10.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "WoodenPlank",
+                    "m_Data": {
+                        "m_Health": 100.0,
+                        "m_Quantity": 6.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        },
+        {
+            "m_Classname": "ExpansionWall6x3",
+            "m_LocalPosition": [
+                4976.26904296875,
+                183.7705535888672,
+                6529.638671875
+            ],
+            "m_LocalRotation": [
+                -178.58447265625,
+                0.0,
+                0.0
+            ],
+            "m_Data": {
+                "m_Health": 30000.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [
+                "wood_windowfinished",
+                "wood_windowframe",
+                "wood_base"
+            ],
+            "m_Attachments": []
+        }
+    ]
+}

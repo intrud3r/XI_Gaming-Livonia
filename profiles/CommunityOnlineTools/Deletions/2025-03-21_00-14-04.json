@@ -1,0 +1,509 @@
+{
+    "m_IsLocalPosition": 0,
+    "m_Items": [
+        {
+            "m_Classname": "AK101",
+            "m_LocalPosition": [
+                7645.35693359375,
+                139.30555725097657,
+                6447.4033203125
+            ],
+            "m_LocalRotation": [
+                145.05979919433595,
+                90.0,
+                -145.05979919433595
+            ],
+            "m_Data": {
+                "m_Health": 300.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "AK101",
+            "m_LocalPosition": [
+                7645.35693359375,
+                139.30555725097657,
+                6447.4033203125
+            ],
+            "m_LocalRotation": [
+                145.05979919433595,
+                90.0,
+                -145.05979919433595
+            ],
+            "m_Data": {
+                "m_Health": 300.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "AK101",
+            "m_LocalPosition": [
+                7645.15380859375,
+                139.30555725097657,
+                6448.29736328125
+            ],
+            "m_LocalRotation": [
+                -71.5118179321289,
+                90.0,
+                71.5118179321289
+            ],
+            "m_Data": {
+                "m_Health": 300.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "AK101",
+            "m_LocalPosition": [
+                7645.15380859375,
+                139.30555725097657,
+                6448.29736328125
+            ],
+            "m_LocalRotation": [
+                -71.5118179321289,
+                90.0,
+                71.5118179321289
+            ],
+            "m_Data": {
+                "m_Health": 300.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "AK101",
+            "m_LocalPosition": [
+                7645.35693359375,
+                139.30555725097657,
+                6447.4033203125
+            ],
+            "m_LocalRotation": [
+                145.05979919433595,
+                90.0,
+                -145.05979919433595
+            ],
+            "m_Data": {
+                "m_Health": 300.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "AK101",
+            "m_LocalPosition": [
+                7645.35693359375,
+                139.30555725097657,
+                6447.4033203125
+            ],
+            "m_LocalRotation": [
+                145.05979919433595,
+                90.0,
+                -145.05979919433595
+            ],
+            "m_Data": {
+                "m_Health": 300.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "AK101",
+            "m_LocalPosition": [
+                7645.35693359375,
+                139.28652954101563,
+                6447.4033203125
+            ],
+            "m_LocalRotation": [
+                -124.97259521484375,
+                -90.0,
+                55.027400970458987
+            ],
+            "m_Data": {
+                "m_Health": 300.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "AK101",
+            "m_LocalPosition": [
+                7645.35693359375,
+                139.28652954101563,
+                6447.4033203125
+            ],
+            "m_LocalRotation": [
+                -124.97259521484375,
+                -90.0,
+                55.027400970458987
+            ],
+            "m_Data": {
+                "m_Health": 300.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "AK101",
+            "m_LocalPosition": [
+                7645.15380859375,
+                139.30555725097657,
+                6448.29736328125
+            ],
+            "m_LocalRotation": [
+                -71.5118179321289,
+                90.0,
+                71.5118179321289
+            ],
+            "m_Data": {
+                "m_Health": 300.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "AK101",
+            "m_LocalPosition": [
+                7645.35693359375,
+                139.28652954101563,
+                6447.4033203125
+            ],
+            "m_LocalRotation": [
+                -124.97259521484375,
+                -90.0,
+                55.027400970458987
+            ],
+            "m_Data": {
+                "m_Health": 300.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "AK101",
+            "m_LocalPosition": [
+                7645.15380859375,
+                139.30555725097657,
+                6448.29736328125
+            ],
+            "m_LocalRotation": [
+                -71.5118179321289,
+                90.0,
+                71.5118179321289
+            ],
+            "m_Data": {
+                "m_Health": 300.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "AK101",
+            "m_LocalPosition": [
+                7645.15380859375,
+                139.30555725097657,
+                6448.29736328125
+            ],
+            "m_LocalRotation": [
+                -71.5118179321289,
+                90.0,
+                71.5118179321289
+            ],
+            "m_Data": {
+                "m_Health": 300.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "AK101",
+            "m_LocalPosition": [
+                7645.35693359375,
+                139.30555725097657,
+                6447.4033203125
+            ],
+            "m_LocalRotation": [
+                145.05979919433595,
+                90.0,
+                -145.05979919433595
+            ],
+            "m_Data": {
+                "m_Health": 300.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "AK101",
+            "m_LocalPosition": [
+                7645.35693359375,
+                139.28652954101563,
+                6447.4033203125
+            ],
+            "m_LocalRotation": [
+                -124.97259521484375,
+                -90.0,
+                55.027400970458987
+            ],
+            "m_Data": {
+                "m_Health": 300.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "AK101",
+            "m_LocalPosition": [
+                7645.35693359375,
+                139.28652954101563,
+                6447.4033203125
+            ],
+            "m_LocalRotation": [
+                -124.97259521484375,
+                -90.0,
+                55.027400970458987
+            ],
+            "m_Data": {
+                "m_Health": 300.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "AK101",
+            "m_LocalPosition": [
+                7645.35693359375,
+                139.30555725097657,
+                6447.4033203125
+            ],
+            "m_LocalRotation": [
+                145.05979919433595,
+                90.0,
+                -145.05979919433595
+            ],
+            "m_Data": {
+                "m_Health": 300.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "AK101",
+            "m_LocalPosition": [
+                7645.35693359375,
+                139.28652954101563,
+                6447.4033203125
+            ],
+            "m_LocalRotation": [
+                -124.97259521484375,
+                -90.0,
+                55.027400970458987
+            ],
+            "m_Data": {
+                "m_Health": 300.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "AK101",
+            "m_LocalPosition": [
+                7645.35693359375,
+                139.30555725097657,
+                6447.4033203125
+            ],
+            "m_LocalRotation": [
+                145.05979919433595,
+                90.0,
+                -145.05979919433595
+            ],
+            "m_Data": {
+                "m_Health": 300.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "AK101",
+            "m_LocalPosition": [
+                7645.35693359375,
+                139.30555725097657,
+                6447.4033203125
+            ],
+            "m_LocalRotation": [
+                145.05979919433595,
+                90.0,
+                -145.05979919433595
+            ],
+            "m_Data": {
+                "m_Health": 300.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "AK101",
+            "m_LocalPosition": [
+                7645.35693359375,
+                139.30555725097657,
+                6447.4033203125
+            ],
+            "m_LocalRotation": [
+                145.05979919433595,
+                90.0,
+                -145.05979919433595
+            ],
+            "m_Data": {
+                "m_Health": 300.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "AK101",
+            "m_LocalPosition": [
+                7645.35693359375,
+                139.30555725097657,
+                6447.4033203125
+            ],
+            "m_LocalRotation": [
+                145.05979919433595,
+                90.0,
+                -145.05979919433595
+            ],
+            "m_Data": {
+                "m_Health": 300.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "AK101",
+            "m_LocalPosition": [
+                7645.35693359375,
+                139.30555725097657,
+                6447.4033203125
+            ],
+            "m_LocalRotation": [
+                145.05979919433595,
+                90.0,
+                -145.05979919433595
+            ],
+            "m_Data": {
+                "m_Health": 300.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "AK101",
+            "m_LocalPosition": [
+                7645.35693359375,
+                139.28652954101563,
+                6447.4033203125
+            ],
+            "m_LocalRotation": [
+                -124.97259521484375,
+                -90.0,
+                55.027400970458987
+            ],
+            "m_Data": {
+                "m_Health": 300.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "AK101",
+            "m_LocalPosition": [
+                7645.35693359375,
+                139.28652954101563,
+                6447.4033203125
+            ],
+            "m_LocalRotation": [
+                -124.97259521484375,
+                -90.0,
+                55.027400970458987
+            ],
+            "m_Data": {
+                "m_Health": 300.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        }
+    ]
+}

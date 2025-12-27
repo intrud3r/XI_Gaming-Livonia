@@ -1,0 +1,26 @@
+{
+    "m_IsLocalPosition": 0,
+    "m_Items": [
+        {
+            "m_Classname": "Fence",
+            "m_LocalPosition": [
+                7480.0859375,
+                141.59996032714845,
+                6345.48193359375
+            ],
+            "m_LocalRotation": [
+                40.37590408325195,
+                0.0,
+                0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        }
+    ]
+}

@@ -1,0 +1,3282 @@
+{
+    "m_IsLocalPosition": 0,
+    "m_Items": [
+        {
+            "m_Classname": "WoodenPlank",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.45167541503906,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                -136.06982421875,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 10.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WoodenPlank",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.45167541503906,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                -154.1318817138672,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 10.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WoodenPlank",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.45167541503906,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                115.7225112915039,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 10.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WoodenPlank",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.45167541503906,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                -113.42630004882813,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 10.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WoodenPlank",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.45167541503906,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                40.408935546875,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 10.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WoodenPlank",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.45167541503906,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                -90.40924835205078,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 10.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WoodenPlank",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.45167541503906,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                -86.89351654052735,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 10.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WoodenPlank",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.45167541503906,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                -68.40296936035156,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 10.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WoodenPlank",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.45167541503906,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                -55.40573501586914,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 10.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WoodenPlank",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.45167541503906,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                39.22237777709961,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 10.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WoodenPlank",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.45167541503906,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                178.2256317138672,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 10.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Nail",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.38335418701172,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                164.5802001953125,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 80.0,
+                "m_Quantity": 70.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WoodenStick",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.38395690917969,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                136.24562072753907,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 50.0,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WoodenStick",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.38395690917969,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                -64.60157012939453,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 50.0,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WoodenStick",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.38395690917969,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                -64.52467346191406,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 50.0,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Nail",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.38335418701172,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                53.3731803894043,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 80.0,
+                "m_Quantity": 70.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Nail",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.38335418701172,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                -30.35615348815918,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 80.0,
+                "m_Quantity": 70.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Nail",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.38335418701172,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                16.16139030456543,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 80.0,
+                "m_Quantity": 70.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WoodenStick",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.38395690917969,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                72.86353302001953,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 50.0,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WoodenStick",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.38395690917969,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                70.73213195800781,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 50.0,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Nail",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.38335418701172,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                1.1316156387329102,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 80.0,
+                "m_Quantity": 70.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Nail",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.38335418701172,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                -135.78416442871095,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 80.0,
+                "m_Quantity": 70.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WoodenStick",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.38395690917969,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                147.39707946777345,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 50.0,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WoodenStick",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.38395690917969,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                -136.652099609375,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 50.0,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WoodenStick",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.38395690917969,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                119.37010192871094,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 50.0,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "MetalPlate",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.36834716796875,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                -165.27236938476563,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 10.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WoodenStick",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.38395690917969,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                -56.174808502197269,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 50.0,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WoodenStick",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.38395690917969,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                -174.8087921142578,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 50.0,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WoodenStick",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.38395690917969,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                -169.52420043945313,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 50.0,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WoodenStick",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.38395690917969,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                107.16389465332031,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 50.0,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WoodenStick",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.38395690917969,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                146.55108642578126,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 50.0,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "MetalWire",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.5467529296875,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                -47.7150764465332,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 500.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WoodenStick",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.38395690917969,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                -15.557114601135254,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 50.0,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WoodenStick",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.38395690917969,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                -73.90727996826172,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 50.0,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WoodenStick",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.38395690917969,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                17.106224060058595,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 50.0,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "MetalPlate",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.36834716796875,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                159.88890075683595,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 10.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "MetalPlate",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.36834716796875,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                -7.558824062347412,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 10.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "MetalPlate",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.36834716796875,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                -85.0916976928711,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 10.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "MetalPlate",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.36834716796875,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                -49.088409423828128,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 10.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WoodenStick",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.38395690917969,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                0.12085700035095215,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 50.0,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WoodenStick",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.38395690917969,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                -105.38407897949219,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 50.0,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WoodenStick",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.38395690917969,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                -15.348368644714356,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 50.0,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WoodenStick",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.38395690917969,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                120.89725494384766,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 50.0,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "MetalPlate",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.36834716796875,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                -126.84101867675781,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 10.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "MetalPlate",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.36834716796875,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                16.381105422973634,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 10.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "BF_DoubleDoorBarricadeKit",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.36669158935547,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                0.0,
+                90.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": [
+                {
+                    "m_Classname": "Rope",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        },
+        {
+            "m_Classname": "WoodenLog",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.3840560913086,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                -105.51590728759766,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 500.0,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Hammer",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.42826843261719,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                63.777584075927737,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Hammer",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.42826843261719,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                141.71694946289063,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Hammer",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.42826843261719,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                148.99014282226563,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Hammer",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.42826843261719,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                23.5004825592041,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Pliers",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.42994689941406,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                -153.73635864257813,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WoodenLog",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.3840560913086,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                177.34671020507813,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 500.0,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WoodenLog",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.3840560913086,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                48.780784606933597,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 500.0,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WoodenLog",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.3840560913086,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                160.328369140625,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 500.0,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WoodenLog",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.3840560913086,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                -83.08113861083985,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 500.0,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WoodenLog",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.3840560913086,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                -130.47760009765626,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 500.0,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WoodenLog",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.3840560913086,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                116.04112243652344,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 500.0,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WoodenLog",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.3840560913086,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                -53.10953140258789,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 500.0,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WoodenLog",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.3840560913086,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                49.220237731933597,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 500.0,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WoodenLog",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.3840560913086,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                94.39739227294922,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 500.0,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WoodenLog",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.3840560913086,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                101.61564636230469,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 500.0,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WoodenLog",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.3840560913086,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                164.51429748535157,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 500.0,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WoodenLog",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.3840560913086,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                64.32689666748047,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 500.0,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WoodenLog",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.3840560913086,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                -75.85191345214844,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 500.0,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WoodenLog",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.3840560913086,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                10.052797317504883,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 500.0,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WoodenLog",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.3840560913086,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                -138.3880157470703,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 500.0,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WoodenLog",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.3840560913086,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                44.704742431640628,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 500.0,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WoodenLog",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.3840560913086,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                -70.55635070800781,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 500.0,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WoodenLog",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.3840560913086,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                -154.64825439453126,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 500.0,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WoodenLog",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.3840560913086,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                63.52488708496094,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 500.0,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WoodenLog",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.3840560913086,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                -67.50205993652344,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 500.0,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WoodenPlank",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.45167541503906,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                173.31460571289063,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 10.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WoodenLog",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.3840560913086,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                88.11302185058594,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 500.0,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WoodenLog",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.3840560913086,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                -170.9964141845703,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 500.0,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WoodenLog",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.3840560913086,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                -35.849483489990237,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 500.0,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WoodenLog",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.3840560913086,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                15.612052917480469,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 500.0,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WoodenPlank",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.45167541503906,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                40.33203125,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 10.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WoodenPlank",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.45167541503906,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                -127.5112075805664,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 10.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WoodenPlank",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.45167541503906,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                84.3885498046875,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 10.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WoodenPlank",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.45167541503906,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                -166.8654327392578,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 10.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WoodenPlank",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.45167541503906,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                -88.6184310913086,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 10.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WoodenPlank",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.45167541503906,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                177.03907775878907,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 10.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WoodenPlank",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.45167541503906,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                154.62628173828126,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 10.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WoodenPlank",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.45167541503906,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                167.0302276611328,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 10.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WoodenPlank",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.45167541503906,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                -118.43622589111328,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 10.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WoodenPlank",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.45167541503906,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                -158.69134521484376,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 10.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WoodenPlank",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.45167541503906,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                83.10310363769531,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 10.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WoodenPlank",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.45167541503906,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                -134.74041748046876,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 10.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WoodenPlank",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.45167541503906,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                179.97251892089845,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 10.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WoodenPlank",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.45167541503906,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                -127.10470581054688,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 10.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WoodenPlank",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.45167541503906,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                172.98501586914063,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 10.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WoodenPlank",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.45167541503906,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                98.31961822509766,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 10.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WoodenPlank",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.45167541503906,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                91.9034194946289,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 10.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WoodenPlank",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.45167541503906,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                79.76316833496094,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 10.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WoodenPlank",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.45167541503906,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                154.1868133544922,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 10.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WoodenPlank",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.45167541503906,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                98.02299499511719,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 10.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WoodenPlank",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.45167541503906,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                72.006591796875,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 10.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WoodenPlank",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.45167541503906,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                -50.59358215332031,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 10.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Nail",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.38335418701172,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                55.8012580871582,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 80.0,
+                "m_Quantity": 70.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WoodenPlank",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.45167541503906,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                45.045326232910159,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 10.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WoodenPlank",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.45167541503906,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                -39.848628997802737,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 10.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WoodenPlank",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.45167541503906,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                123.64389038085938,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 10.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WoodenPlank",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.45167541503906,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                -44.627830505371097,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 10.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WoodenPlank",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.45167541503906,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                -113.29446411132813,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 10.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WoodenPlank",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.45167541503906,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                59.624637603759769,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 10.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WoodenPlank",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.45167541503906,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                56.372562408447269,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 10.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Nail",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.38335418701172,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                94.29852294921875,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 80.0,
+                "m_Quantity": 70.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Nail",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.38335418701172,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                -143.870361328125,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 80.0,
+                "m_Quantity": 70.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Nail",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.38335418701172,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                -147.47398376464845,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 80.0,
+                "m_Quantity": 70.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Nail",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.38335418701172,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                -133.03750610351563,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 80.0,
+                "m_Quantity": 70.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Nail",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.38335418701172,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                -8.097169876098633,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 80.0,
+                "m_Quantity": 70.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Hammer",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.42826843261719,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                -8.38282299041748,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Hammer",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.42826843261719,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                -90.31037139892578,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "BF_DoorBarricadeKit",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.36669158935547,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                0.0,
+                90.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": [
+                {
+                    "m_Classname": "Rope",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        },
+        {
+            "m_Classname": "Hammer",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.42826843261719,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                -80.00487518310547,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Hammer",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.42826843261719,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                135.94895935058595,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Pliers",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.42994689941406,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                -97.72637176513672,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WoodenLog",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.3840560913086,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                106.46076965332031,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 500.0,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WoodenLog",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.3840560913086,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                154.7801055908203,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 500.0,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WoodenLog",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.3840560913086,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                -61.920833587646487,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 500.0,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WoodenLog",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.3840560913086,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                96.4958724975586,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 500.0,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WoodenLog",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.3840560913086,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                166.0743865966797,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 500.0,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WoodenLog",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.3840560913086,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                -30.312206268310548,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 500.0,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WoodenLog",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.3840560913086,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                123.45712280273438,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 500.0,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WoodenLog",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.3840560913086,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                83.5645523071289,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 500.0,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WoodenLog",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.3840560913086,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                -15.23850154876709,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 500.0,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WoodenLog",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.3840560913086,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                122.13873291015625,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 500.0,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WoodenLog",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.3840560913086,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                -22.73140525817871,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 500.0,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WoodenLog",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.3840560913086,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                74.06108093261719,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 500.0,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WoodenLog",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.3840560913086,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                133.36709594726563,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 500.0,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WoodenLog",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.3840560913086,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                -84.26770782470703,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 500.0,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WoodenLog",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.3840560913086,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                101.56070709228516,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 500.0,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WoodenLog",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.3840560913086,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                -60.3827018737793,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 500.0,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WoodenLog",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.3840560913086,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                -174.2045135498047,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 500.0,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WoodenPlank",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.45167541503906,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                -169.99664306640626,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 10.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WoodenPlank",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.45167541503906,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                -119.91944122314453,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 10.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WoodenLog",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.3840560913086,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                -62.82173538208008,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 500.0,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WoodenLog",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.3840560913086,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                59.295013427734378,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 500.0,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WoodenLog",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.3840560913086,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                59.70154571533203,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 500.0,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WoodenPlank",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.45167541503906,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                98.01201629638672,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 10.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WoodenLog",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.3840560913086,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                134.7733917236328,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 500.0,
+                "m_Quantity": 1.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WoodenPlank",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.45167541503906,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                102.37368774414063,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 10.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WoodenPlank",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.45167541503906,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                -82.82845306396485,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 10.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WoodenPlank",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.45167541503906,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                -138.2341766357422,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 10.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WoodenPlank",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.45167541503906,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                131.07089233398438,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 10.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WoodenPlank",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.45167541503906,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                -148.3748779296875,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 10.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WoodenPlank",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.45167541503906,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                -130.4446563720703,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 10.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WoodenPlank",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.45167541503906,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                23.852046966552736,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 10.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WoodenPlank",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.45167541503906,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                -162.74542236328126,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 10.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WoodenPlank",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.45167541503906,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                -138.4868927001953,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 10.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WoodenPlank",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.45167541503906,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                86.13543701171875,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 10.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WoodenPlank",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.45167541503906,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                160.6689453125,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 10.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WoodenPlank",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.45167541503906,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                66.18363952636719,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 10.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "WoodenPlank",
+            "m_LocalPosition": [
+                7487.68212890625,
+                125.45167541503906,
+                6347.22998046875
+            ],
+            "m_LocalRotation": [
+                -5.811944961547852,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 10.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "m_IsLocalPosition": 1,
+    "m_Items": [
+        {
+            "m_Classname": "BF_DoubleDoorBarricade",
+            "m_LocalPosition": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "m_LocalRotation": [
+                -139.39736938476563,
+                -0.00006440899596782401,
+                -0.000006910338470333954
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [
+                "c_right_planks",
+                "g_right_inner_plate",
+                "e_left_outer_plate",
+                "b_right_frames",
+                "b_left_frames",
+                "e_right_outer_plate",
+                "g_left_inner_plate",
+                "f_left_inner_planks",
+                "f_right_inner_planks",
+                "a_base",
+                "c_left_planks",
+                "d_right_final_planks",
+                "d_left_final_planks"
+            ],
+            "m_Attachments": []
+        }
+    ]
+}

@@ -1,0 +1,195 @@
+{
+    "m_IsLocalPosition": 0,
+    "m_Items": [
+        {
+            "m_Classname": "ExpansionFloorKit",
+            "m_LocalPosition": [
+                2958.14013671875,
+                204.7166290283203,
+                494.1759338378906
+            ],
+            "m_LocalRotation": [
+                20.008480072021486,
+                -58.89530944824219,
+                -2.9885592460632326
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": [
+                {
+                    "m_Classname": "Rope",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        },
+        {
+            "m_Classname": "ExpansionFloorKit",
+            "m_LocalPosition": [
+                2956.02880859375,
+                202.41253662109376,
+                488.5638732910156
+            ],
+            "m_LocalRotation": [
+                0.0,
+                90.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": [
+                {
+                    "m_Classname": "Rope",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        },
+        {
+            "m_Classname": "Fireplace",
+            "m_LocalPosition": [
+                2961.83251953125,
+                210.38243103027345,
+                490.78070068359377
+            ],
+            "m_LocalRotation": [
+                28.005054473876954,
+                0.001273501431569457,
+                0.002119674114510417
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 100.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 19
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Fireplace",
+            "m_LocalPosition": [
+                2960.434326171875,
+                210.38511657714845,
+                490.6156005859375
+            ],
+            "m_LocalRotation": [
+                -99.5884780883789,
+                -0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 100.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 8
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Fireplace",
+            "m_LocalPosition": [
+                2960.909912109375,
+                210.38558959960938,
+                488.99981689453127
+            ],
+            "m_LocalRotation": [
+                27.338802337646486,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 100.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 25
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "FireplaceIndoor",
+            "m_LocalPosition": [
+                2959.561767578125,
+                211.1167755126953,
+                491.7861328125
+            ],
+            "m_LocalRotation": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 100.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 9
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Fireplace",
+            "m_LocalPosition": [
+                2959.562255859375,
+                210.87486267089845,
+                491.78582763671877
+            ],
+            "m_LocalRotation": [
+                -143.0792999267578,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 100.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 4
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Fireplace",
+            "m_LocalPosition": [
+                2959.5625,
+                210.3852996826172,
+                491.7852478027344
+            ],
+            "m_LocalRotation": [
+                -155.2415313720703,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 100.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 4
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        }
+    ]
+}

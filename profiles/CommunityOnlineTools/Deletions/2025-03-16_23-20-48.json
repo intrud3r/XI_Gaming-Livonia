@@ -1,0 +1,79 @@
+{
+    "m_IsLocalPosition": 0,
+    "m_Items": [
+        {
+            "m_Classname": "DONFOOD_CANDYBAR_ILKA_CLASSIC",
+            "m_LocalPosition": [
+                1525.302490234375,
+                191.33164978027345,
+                6650.8896484375
+            ],
+            "m_LocalRotation": [
+                0.0,
+                -90.0,
+                -180.0
+            ],
+            "m_Data": {
+                "m_Health": 10.838332176208496,
+                "m_Quantity": 37.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 3
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "ExpansionFloorKit",
+            "m_LocalPosition": [
+                2967.394287109375,
+                210.60507202148438,
+                495.242919921875
+            ],
+            "m_LocalRotation": [
+                136.78990173339845,
+                90.0,
+                -136.7628173828125
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": [
+                {
+                    "m_Classname": "Rope",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        },
+        {
+            "m_Classname": "ZmbM_BloodSucker_superhard",
+            "m_LocalPosition": [
+                2610.169677734375,
+                144.77999877929688,
+                3187.008544921875
+            ],
+            "m_LocalRotation": [
+                45.304054260253909,
+                -0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 2200.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 15
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        }
+    ]
+}
